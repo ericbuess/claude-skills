@@ -994,13 +994,17 @@ P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tunin
    - **PRIMARY (Eric's actual proposal)**: AI alignment training comparison
      - Agents trained in moral crucible environments vs. Constitutional AI/RLHF
      - Metrics: Value drift (ΔKL < 0.05), deceptive alignment detection, OOD robustness
-     - Timeline: 2024-2040 (near-term testable)
-     - Falsifiable: If moral training shows NO improvement, hypothesis fails
-   - **SECONDARY (with intellectual humility)**: Physics lattice signatures
-     - UHECR anisotropies (testable by CTA 2040)
-     - CMB anomalies at ℓ ~ 2000-5000 (testable by CMB-S4 2035)
-     - GW dispersion (theoretical only - beyond detection limits)
-     - Note: Physics predictions added by AI to paper, not yet validated by Eric
+     - Timeline: 2025-2045 (baselines first, then comparison studies)
+     - Falsifiable: If 10+ experiments show NO improvement (p < 0.05), hypothesis fails
+     - **VALIDATION**: Oct 2024 study used Iterated Prisoner's Dilemma as moral training - found moral strategies generalize!
+   - **SECONDARY (speculative - for researchers)**: Physics lattice signatures
+     - **UHECR discrete symmetry** (testable by AugerPrime/TAx4 2040)
+       - CORRECTED: Originally said "CTA" but CTA detects gamma rays, not cosmic rays
+       - Prediction: Cubic/hexagonal patterns in arrival directions, not smooth dipole
+     - **CMB power spectrum deviations** at ℓ ~ 2000-5000 (testable by LiteBIRD 2032-2037, Simons Observatory)
+       - CORRECTED: CMB-S4 was **cancelled July 2025**
+     - **GW dispersion** (theoretical only - 6 orders beyond LISA detection limits)
+     - Note: Physics predictions developed with AI assistance to spark researcher interest; Eric not a physicist
 4. **Bridge-building**: Connects AI safety research to theology
 5. **Predictive vs. accommodative**: Derives requirements from AI alignment FIRST, then checks universe (not post-hoc rationalization)
 

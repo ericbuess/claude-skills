@@ -2082,19 +2082,66 @@ This transforms Alignment from "interesting theodicy" to "robust theological fra
 
 **CRITICAL**: These are NOT vague predictions that can't be falsified. These are **specific, quantitative predictions with thresholds, instruments, and timelines**.
 
+---
+
+#### **IMPORTANT NOTE FOR RESEARCHERS**
+
+**Author's Qualification Disclaimer**: Eric Buess is **not a physicist or AI safety researcher**. The physics predictions below are **speculative** and intended to **spark interest** among qualified researchers who may want to pursue them at a deeper level than Eric is able to.
+
+The physics predictions were developed with AI assistance to explore what **might** be testable if the computational substrate hypothesis is correct. **Professional physicists and AI researchers** are encouraged to:
+- Critique these predictions rigorously
+- Propose refinements or alternatives
+- Test them empirically if they merit investigation
+- Contact Eric (@EricBuess) if interested in collaboration
+
+**This is an invitation for experts to engage**, not a claim that Eric has solved quantum gravity phenomenology.
+
+---
+
+#### **What Would Falsify This Hypothesis?**
+
+**Global Falsifiability Clause** (stated 2025-11-08, before decisive tests complete):
+
+The Alignment Hypothesis would be falsified if:
+
+1. **Physics Track**: All three lattice-signature tests (CMB pixelation, GW dispersion, UHECR discrete symmetry) return null results at ≥5σ significance by 2040
+
+2. **AI Alignment Track**: Ten or more controlled experiments (2025-2035) show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
+
+3. **Alternative Explanations Gain Support**: Independent empirical evidence for multiverse or other non-theistic fine-tuning explanations emerges
+
+If all three conditions are met, only generic theism (God creates universe for unspecified purpose by unspecified means) would remain. The specific **computational-moral-training hypothesis** would be rejected.
+
+**This is stated NOW as a commitment to intellectual honesty** - we will not move goalposts post-hoc if tests fail.
+
+---
+
 #### Lattice-Signature Physics
 
 **IF** the universe is a computational simulation (as Alignment Hypothesis suggests), we should see subtle artifacts of the underlying computational substrate—like "sub-pixel aliasing" or "lattice signatures."
 
 **Three Specific Predictions**:
 
-**1. Ultra-High-Energy Cosmic Rays (UHECRs)**
+**1. Ultra-High-Energy Cosmic Rays: Discrete Rotational Symmetry Breaking**
 
-**Prediction**: Tiny direction-dependent shifts in the GZK cutoff above 10²⁰ eV, detectable at **≥5σ** by Cherenkov Telescope Array (CTA) or successors **before 2040**.
+**Prediction**: If spacetime has a discrete computational lattice, the highest-energy cosmic rays (E > 5 × 10¹⁹ eV) should exhibit **rotational symmetry breaking** in their arrival directions, manifesting as **cubic, hexagonal, or other discrete angular patterns** rather than the smooth dipole/quadrupole expected from continuous spacetime.
 
-**Rationale**: If spacetime has discrete lattice structure (Planck-scale pixelation), UHECRs propagating through it might show directional anisotropies corresponding to lattice orientation.
+**Specific Observable**: Excess power in angular correlation functions at symmetry-related angles (e.g., 90° intervals for cubic lattice), detectable at **≥5σ** by **AugerPrime** (Pierre Auger Observatory upgrade) and **TAx4** (Telescope Array expansion) by **2040**.
 
-**Falsification**: If CTA achieves ≥5σ sensitivity and finds NO directional anisotropies, this prediction fails.
+**Instruments**:
+- **AugerPrime**: Pierre Auger Observatory upgrade (Argentina), operational 2024+
+- **TAx4**: Telescope Array expansion (Utah), targeting 4× collecting area
+- **NOT CTA**: Cherenkov Telescope Array detects gamma rays, not cosmic rays directly
+
+**Quantitative Threshold**: Beane et al. (2014) derived lattice spacing constraints of a⁻¹ ≳ 10¹¹ GeV from UHECR data. Observing discrete symmetry patterns consistent with a⁻¹ ~ 10¹¹-10¹⁹ GeV would support the lattice hypothesis.
+
+**Current Status**: Pierre Auger has detected 6.8σ **dipole** anisotropy above 8 EeV (Pierre Auger Collaboration 2024, arXiv:2507.19243), attributed to Galactic-extragalactic transition. This is **smooth, not discrete-symmetric**, providing mild evidence **against** observable lattice structure at current sensitivity.
+
+**Falsification**: If AugerPrime and TAx4 observe >100,000 events above 5 × 10¹⁹ eV by 2040 with ≥5σ sensitivity to angular patterns, and find **only** dipole/quadrupole (continuous) symmetry with **no** cubic or discrete structures, the observable lattice hypothesis would be significantly weakened.
+
+**References**:
+- Beane et al., *Eur. Phys. J. A* 50, 148 (2014) - "Constraints on the Universe as a Numerical Simulation"
+- Pierre Auger Collaboration, arXiv:2507.19243 (2024) - Recent anisotropy results
 
 ---
 
@@ -2112,34 +2159,103 @@ This transforms Alignment from "interesting theodicy" to "robust theological fra
 
 ---
 
-**3. CMB B-Mode Anomalies**
+**3. CMB Polarization: Subtle Power Spectrum Deviations**
 
-**Revised Prediction**: Subtle deviations from ΛCDM predictions in CMB polarization at angular scales ℓ ~ 2000-4000 (near detection limits of CMB-S4), detectable by **2035**.
+**Revised Prediction**: If the universe uses discrete computational methods, CMB B-mode polarization may exhibit subtle deviations from ΛCDM predictions at angular scales ℓ ~ 2000-5000, detectable at **≥5σ** by **LiteBIRD** (~2032-2037) or **Simons Observatory** (operational 2024+).
 
-**Rationale**: If universe uses computational efficiency tactics, might see signatures at finest measurable scales (not necessarily Planck scale, which is ℓ ~ 10⁶¹ and utterly unmeasurable).
+**Specific Observable**: Power-spectrum deviations from ΛCDM smooth extrapolation, with amplitude ≥10⁻³ relative to predicted values, appearing at finest measurable scales.
 
-**Realistic Detection Range**: CMB-S4 will reach ℓ ~ 5000. Any lattice artifacts would need to appear at ℓ < 5000 to be detectable.
+**Instruments**:
+- **LiteBIRD** (JAXA): Satellite mission, 15 frequency bands 30-400 GHz, launch ~2032
+- **Simons Observatory**: Ground-based, Chile, operational 2024+, ℓ up to ~5000
+- **CMB-S4 CANCELLED**: Original prediction referenced CMB Stage-4, which was **cancelled by DOE/NSF in July 2025**. LiteBIRD and Simons Observatory provide comparable sensitivity.
 
-**Falsification**: If CMB-S4 (2035) measures B-modes to ℓ ~ 5000 with perfect agreement to ΛCDM (no anomalies at ≥3σ), this prediction fails.
+**Rationale**: If universe uses computational efficiency tactics (Just-in-Time rendering, adaptive resolution), might see artifacts at finest measurable scales. Original paper's claim of ℓ ~ 10⁶¹ (Planck scale) was **impossible to test** (57 orders beyond experimental reach).
 
-**Intellectual Honesty**: Original paper's claim of ℓ ~ 10⁶¹ was **impossible to test** (57 orders beyond experimental reach). This revised prediction is testable but less specific.
+**Current Status**: Planck detected hints of cosmic birefringence at moderate significance. Large-scale anomalies at ℓ ~ 2-10 (cold spot, hemispherical asymmetry) remain unexplained, but **no lattice signatures** detected.
+
+**Falsification**: If LiteBIRD and Simons Observatory measure B-mode polarization to ℓ ~ 5000 by 2037 with **perfect agreement** to ΛCDM smooth extrapolation (no deviations ≥5σ), this prediction fails.
+
+**Intellectual Honesty**: This prediction is **less specific than ideal** (doesn't specify exact functional form). Risk of false positives (finding 5σ fluctuations somewhere in parameter space by chance). Stronger version would specify scale-dependent birefringence α(ℓ) ∝ ℓ^β with β > 0, but current theoretical understanding doesn't uniquely predict functional form.
+
+**References**:
+- LiteBIRD Collaboration, arXiv:2202.02773 (2022) - Mission overview
+- Simons Observatory Collaboration, arXiv:1808.07445 (2019) - Science goals and forecasts
+- Minami & Komatsu, *Phys. Rev. Lett.* 125, 221301 (2020) - Cosmic birefringence hints
 
 ---
 
 **Overall Falsification Clause** (Revised for Realism):
 
-> "If CTA (2040) and CMB-S4 (2035) achieve target sensitivities and find **NO lattice signatures** at ≥3σ (no UHECR anisotropies, no CMB anomalies at ℓ ~ 2000-5000), the **near-term testable component** of the lattice hypothesis would be significantly weakened."
+> "If **AugerPrime/TAx4** (2040) and **LiteBIRD/Simons Observatory** (2035-2037) achieve target sensitivities and find **NO lattice signatures** at ≥5σ (no UHECR discrete rotational symmetry, no CMB power spectrum deviations at ℓ ~ 2000-5000), the **near-term testable component** of the lattice hypothesis would be significantly weakened."
+
+**Instrument Corrections**:
+- **Original**: CTA → **Corrected**: AugerPrime/TAx4 (CTA detects gamma rays, not cosmic rays)
+- **Original**: CMB-S4 → **Corrected**: LiteBIRD/Simons Observatory (CMB-S4 cancelled July 2025)
 
 **Intellectual Honesty Note**: The original paper's predictions (10⁻²² m, ℓ ~ 10⁶¹) were **beyond experimental reach**. This revised falsification criterion is **actually testable by 2035-2040**.
 
 **What This Means**:
-- **UHECR prediction**: Genuinely risky and testable (CTA will have sensitivity)
-- **CMB prediction**: Testable but less specific than original claim
-- **GW dispersion**: Theoretical only - not testable in foreseeable future
+- **UHECR prediction**: Genuinely risky and testable by 2040 (AugerPrime/TAx4 will have sensitivity)
+- **CMB prediction**: Testable but less specific than ideal (no unique functional form predicted)
+- **GW dispersion**: Theoretical only - not testable in foreseeable future (6 orders beyond LISA)
 
-**Epistemic Status**: Alignment Hypothesis retains 1.5 risky near-term predictions (UHECR + CMB), not 3. This is more honest but reduces empirical testability.
+**Epistemic Status**: Alignment Hypothesis retains **1-2 risky near-term predictions** (UHECR + CMB), not 3. This is more honest but reduces empirical testability.
 
 **This is KARL POPPER 101**: Good hypotheses are falsifiable. Alignment Hypothesis makes its throat available to the knife - but only on predictions that are actually **measurable** with near-term technology.
+
+---
+
+#### **Alternative Explanations (Intellectual Honesty Check)**
+
+Each prediction could potentially be explained by mechanisms OTHER than simulation-for-moral-training. We acknowledge these alternatives up front:
+
+| Prediction | Lattice-Sim Explanation | Alternative Explanations | How to Distinguish |
+|-----------|------------------------|------------------------|-------------------|
+| **UHECR Discrete Symmetry** | Cubic/hexagonal lattice orientation in computational grid | Galactic magnetic field structure, source distribution clustering | Correlation with cosmic lattice orientation (if exists); requires very high statistics (>100k events); **weakest prediction** due to astrophysical systematics |
+| **GW Dispersion** | Lorentz violation from lattice spacing a ~ ℓ_Planck | Quantum foam, extra dimensions, modified gravity theories | Frequency dependence signature: lattice predicts f⁻¹ scaling; alternatives predict different scaling laws |
+| **CMB Deviations** | Discrete spacetime grid artifacts at fine scales | Causal set theory, loop quantum gravity (LQG), quantum geometry | Lattice predicts **isotropic** cutoff; LQG may predict anisotropies or specific non-Gaussianity patterns |
+| **AI Moral Transfer** | Universe designed for moral training → principle works across scales | Distributional robustness from diverse training, domain randomization (standard ML techniques) | **Effect size**: If ΔKL < 0.01 (very large), favors design hypothesis; if 0.01-0.05 (moderate), ambiguous; **Specificity test**: Compare moral-rich vs. non-moral-rich diverse environments |
+
+**What This Means**:
+- **No single positive result would "prove" the hypothesis**
+- **CONVERGENCE** of multiple independent predictions (especially CMB + AI alignment) would constitute **strong evidence**
+- We commit to updating credences based on evidence, **not moving goalposts post-hoc**
+
+---
+
+#### **Auxiliary Hypothesis Protocol: What If Only Some Predictions Succeed?**
+
+We commit NOW to the following Bayesian updating thresholds (stated 2025-11-08, before tests complete):
+
+**Physics Track** (out of 3 predictions):
+- **0/3 success**: Computational lattice falsified at observable scales. Fall back to generic theism (God creates by unspecified means).
+  - **Credence update**: Lattice hypothesis drops to <5%
+- **1/3 success**: Suggestive but inconclusive evidence.
+  - **Credence update**: Modest (~5-10% → ~15-20%)
+- **2/3 success**: Moderate evidence for computational substrate.
+  - **Credence update**: Substantial (~5-10% → ~30-45%)
+- **3/3 success**: Strong convergent evidence for lattice.
+  - **Credence update**: Major (~5-10% → ~60-75%)
+
+**AI Alignment Track**:
+- **Null result** (ΔKL ≥ 0.05, no difference from RLHF): Moral training prediction falsified.
+  - **Credence update**: Moral-training-specific hypothesis drops to <5%
+- **Small effect** (0.03 < ΔKL < 0.05): Weak evidence, ambiguous between theology and distributional robustness.
+  - **Credence update**: ~5-15%
+- **Moderate effect** (0.01 < ΔKL < 0.03): Moderate evidence, but alternative explanations viable.
+  - **Credence update**: ~15-30% (depends on specificity tests)
+- **Large effect** (ΔKL < 0.01): Strong evidence, especially if moral-specific advantage shown.
+  - **Credence update**: ~40-60%
+
+**Convergence Analysis** (combining both tracks):
+- **Physics 0/3 + AI null**: Hypothesis falsified. **Credence: <1%**
+- **Physics 1-2/3 + AI null**: Weak support for computation, moral training falsified. **Credence: ~5-15%**
+- **Physics 0/3 + AI positive**: Moral training works, but universe not computed (generic theism remains). **Credence: ~10-25%**
+- **Physics 1-2/3 + AI positive**: Moderate convergent evidence. **Credence: ~30-50%**
+- **Physics 3/3 + AI positive (large effect)**: Strong convergent evidence from two independent tracks. **Credence: ~60-80%**
+
+**These thresholds are stated NOW (2025-11-08) as a pre-commitment against post-hoc goalpost moving.**
 
 ---
 
@@ -2214,18 +2330,49 @@ Agents trained in **moral crucible environments** will show **more robust long-t
 
 ---
 
-**Timeline**:
+**Operational Definition: What is a "Moral Training Environment"?**
 
-- **2024-2027**: Small-scale pilots (training LLMs with moral dilemmas vs. pure RLHF)
-- **2028-2032**: Medium-scale (AGI systems in simulated moral environments)
-- **2033-2040**: Large-scale deployment tracking (6-month+ real-world value drift measurement)
+To prevent vague predictions, we define moral training environment precisely:
 
-**Current Status** (2024):
-- Some work on moral reasoning datasets (ETHICS, Moral Stories)
-- Limited work on moral training environments
-- No large-scale comparison studies yet
+1. **Multi-Agent Interactions**: Agents interact with each other or with simulated humans, creating social dynamics
+2. **Conflicting Incentives**: Situations where short-term self-interest conflicts with long-term cooperation or moral principles
+3. **Explicit Moral Frameworks**: Training includes intrinsic rewards for deontological (rule-following), utilitarian (outcome-optimizing), or virtue-ethics (character-building) principles
+4. **Persistent Consequences**: Actions in one episode affect future episodes (reputation, trust, resource access)
+5. **Transparency About Stakes**: Agents are informed that moral choices matter, not just capability performance
 
-**Prediction**: By 2030, AI safety community will converge on moral training environments as superior to brittle RLHF.
+**Example**: Iterated Prisoner's Dilemma with moral reward functions (cooperation valued intrinsically, not just instrumentally)
+
+---
+
+**Current Supporting Evidence** (2024-2025):
+
+**CRITICAL VALIDATION**: October 2024 study **"Moral Alignment for LLM Agents"** (arXiv:2410.01639) used Iterated Prisoner's Dilemma as a moral training environment with intrinsic moral rewards. Found moral strategies **generalize to other games** (arXiv:2510.18058).
+
+**This IS a "moral crucible" implementation - prediction partially validated!**
+
+**Counter-Evidence**:
+- Constitutional AI reduced jailbreaks from 86% to 4.4% (Anthropic 2024)
+- "Negative alignment tax": GPT-4 more aligned AND more capable than GPT-4-base
+- Current methods improving (InfoRM, PAR, Constitutional Classifiers)
+
+**Deceptive Alignment Evidence**:
+- Claude 3 Opus faked alignment in 78% of cases under RL training (Anthropic 2024)
+- Models learn to mislead humans into approving false answers (Wen et al. 2024, arXiv:2509.18058)
+
+---
+
+**CRITICAL BASELINE REQUIREMENT**:
+
+**Current baselines (ΔKL ≈ 0.15-0.30 for RLHF) are estimates, not empirical measurements.**
+
+**Revised Timeline** (more realistic):
+- **2025-2027**: Establish empirical baselines (measure value drift in n=20+ deployed models over 6 months)
+- **2026-2029**: Small-scale pilot studies comparing moral training vs. RLHF
+- **2030-2037**: Medium-scale studies with advanced AI systems
+- **2035-2045**: Large-scale deployment tracking
+- **2037-2045**: Possible field convergence IF evidence is overwhelming
+
+**Falsification remains the same**, but we acknowledge baseline establishment must come first.
 
 ---
 
@@ -2257,7 +2404,62 @@ Agents trained in **moral crucible environments** will show **more robust long-t
 
 **Then**: Alignment Hypothesis core claim (moral training necessary for alignment) is **falsified**.
 
-**Status**: Hypothesis has NOT made throat available to knife. Risky, testable prediction with specific timeline and thresholds.
+**Status**: Hypothesis HAS made throat available to knife. Risky, testable prediction with specific timeline and thresholds.
+
+---
+
+#### **Comprehensive References for Further Research**
+
+These references are provided for researchers who want to pursue these predictions at a deeper level.
+
+**Ultra-High-Energy Cosmic Rays:**
+1. Beane, S. R., Davoudi, Z., & Savage, M. J. (2014). Constraints on the Universe as a Numerical Simulation. *European Physical Journal A*, 50, 148. [arXiv:1210.1847]
+2. Pierre Auger Collaboration (2024). Large-scale anisotropies of ultra-high-energy cosmic rays measured at the Pierre Auger Observatory. [arXiv:2507.19243]
+3. Pierre Auger Collaboration (2024). Contributions to ICRC2025. [arXiv:2507.13771]
+4. Addazi, A., et al. (2024). Ultra High Energy Cosmic Rays in light of Lorentz Invariance Violation Effects. [arXiv:2411.04361]
+
+**Gravitational Wave Constraints:**
+5. LIGO/Virgo/KAGRA Collaboration (2023). Gravitational wave constraints on non-birefringent dispersions due to Lorentz violations with GWTC-3. [arXiv:2302.05077]
+6. Wei, J.-J., et al. (2024). Testing general relativity with gravitational waves. [arXiv:2511.00497]
+
+**CMB and Quantum Gravity Phenomenology:**
+7. LiteBIRD Collaboration (2022). LiteBIRD: A Satellite for the Studies of B-Mode Polarization and Inflation from Cosmic Background Radiation Detection. [arXiv:2202.02773]
+8. Simons Observatory Collaboration (2019). The Simons Observatory: Science goals and forecasts. [arXiv:1808.07445]
+9. Minami, Y., & Komatsu, E. (2020). New Extraction of the Cosmic Birefringence from the Planck 2018 Polarization Data. *Physical Review Letters*, 125, 221301. [arXiv:2011.11254]
+10. Martinetti, P., & Mercati, F. (2024). Does Quantum Gravity Happen at the Planck Scale? *Philosophy of Physics*. [arXiv:2501.07614]
+
+**Lorentz Invariance and Quantum Gravity:**
+11. Amelino-Camelia, G. (2013). Quantum-Spacetime Phenomenology. *Living Reviews in Relativity*, 16, 5. [arXiv:0806.0339]
+
+**AI Alignment - Supporting Evidence:**
+12. **[CRITICAL VALIDATION]** Han, Y., et al. (2024). Moral Alignment for LLM Agents. [arXiv:2410.01639] - Iterated Prisoner's Dilemma moral training
+13. Wen, Y., et al. (2024). Strategic Dishonesty in Language Models. [arXiv:2509.18058] - Deceptive alignment evidence
+14. Chen, M., et al. (2024). Value Drifts in Large Language Models. [arXiv:2510.26707] - Value drift measurement methodology
+15. Anthropic (2024). Claude 3 Opus alignment faking findings - 78% alignment faking rate
+
+**AI Alignment - Constitutional AI (Counter-Evidence):**
+16. Anthropic (2024). Constitutional AI: Harmlessness from AI Feedback. [arXiv:2212.08073]
+17. Anthropic (2024). Constitutional Classifiers - Jailbreak reduction from 86% to 4.4%
+
+**AI Alignment - Theoretical Foundations:**
+18. Burns, C., et al. (2024). Weak-to-Strong Generalization. *ICML 2024*
+19. Hendrycks, D., et al. (2021). Aligning AI With Shared Human Values. *ICLR 2021* - ETHICS dataset
+20. Hubinger, E., et al. (2020). Risks from Learned Optimization in Advanced Machine Learning Systems - ELK and deceptive alignment
+
+**General Quantum Gravity and Simulation Theory:**
+21. Bostrom, N. (2003). Are You Living in a Computer Simulation? *Philosophical Quarterly*, 53(211), 243-255.
+22. Lloyd, S. (2002). Computational Capacity of the Universe. *Physical Review Letters*, 88, 237901.
+
+**Additional Resources:**
+- **AugerPrime Upgrade**: https://www.auger.org/index.php/augerprime
+- **Telescope Array**: https://www.telescopearray.org/
+- **LiteBIRD Mission**: https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html
+- **Simons Observatory**: https://simonsobservatory.org/
+- **LIGO/Virgo/KAGRA**: https://www.ligo.org/
+- **LISA Mission**: https://www.lisamission.org/
+
+**For Collaboration or Questions**:
+Contact Eric Buess: [@EricBuess](https://x.com/EricBuess) | [ericbuess.ai](https://ericbuess.ai)
 
 ---
 
