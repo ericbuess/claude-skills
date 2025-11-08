@@ -100,16 +100,24 @@ The modern challenge of AI alignment offers a novel interpretive heuristic for t
 
 **Stated 2024-2025, before decisive tests complete, as a commitment to intellectual honesty:**
 
-The Alignment Hypothesis would be falsified if:
+The Alignment Hypothesis would be **significantly weakened** or **falsified** if:
 
-1. **Physics Track**: Both testable lattice-signature predictions (CMB deviations, UHECR discrete symmetry) return null results at ≥5σ significance by 2040
+1. **Physics Track Falsification**: Both testable lattice-signature predictions (CMB deviations, UHECR discrete symmetry) return null results at ≥5σ significance by 2040
    - **Note**: GW dispersion prediction is theoretical only (6 orders of magnitude beyond detection limits with LISA by 2037), so it's not counted in falsification criteria
+   - **Impact**: 0/2 success → computational lattice hypothesis falsified at observable scales
 
-2. **AI Alignment Track**: Ten or more controlled experiments (2025-2035) show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
+2. **AI Alignment Track Falsification**: Ten or more controlled experiments (2025-2035) show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
+   - **Impact**: Null results → moral training hypothesis falsified
 
 3. **Alternative Explanations Gain Support**: Independent empirical evidence for multiverse or other non-theistic fine-tuning explanations emerges
+   - **Impact**: Alternative naturalistic explanations become more parsimonious
 
-If all three conditions are met, only generic theism (God creates universe for unspecified purpose by unspecified means) would remain. The specific **computational-moral-training hypothesis** would be rejected.
+**Falsification Logic**:
+- **Physics track null (0/2) OR AI track null** = Specific mechanisms of the hypothesis (computational lattice OR moral training) falsified
+- **Both tracks null (0/2 physics AND null AI)** = Complete falsification of computational-moral-training hypothesis
+- **Alternative explanations confirmed** = Further weakens Bayesian support regardless of other results
+
+If both empirical tracks fail, only generic theism (God creates universe for unspecified purpose by unspecified means) would remain. The specific **computational-moral-training hypothesis** would be rejected.
 
 **This is stated NOW as a commitment against post-hoc goalpost moving.**
 
@@ -635,8 +643,8 @@ Contact Eric Buess: [@EricBuess](https://x.com/EricBuess) | [ericbuess.ai](https
 ---
 
 **Version History**:
-- **v1.0** (2024): Original academic paper
-- **v1.1** (2025-11-08): Enhanced with falsifiability improvements, instrument corrections, alternative explanations table, auxiliary hypothesis protocol, operational definitions, and comprehensive references
+- **v0.0.1** (2024): Initial draft
+- **v0.0.2** (2025): Early beta with falsifiability improvements, instrument corrections (GW dispersion → theoretical only, AugerPrime/TAx4, LiteBIRD/Simons Observatory), alternative explanations table, auxiliary hypothesis protocol, operational definitions, and comprehensive references
 
 ---
 

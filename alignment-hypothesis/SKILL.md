@@ -1362,7 +1362,7 @@ Posterior ≈ 97%
 3. Struggles with gratuitous cases (child cancer, animal suffering)
 4. P(Suffering | Classical Theism) ≈ **35%** (low - suffering is PROBLEM)
 
-**Eric's Bayesian Update for Classical Theism**:
+**Example Bayesian Update for Classical Theism**:
 ```
 Prior: P(Classical Theism) = 97%
 P(Suffering | CT) = 35%
@@ -1386,7 +1386,7 @@ Posterior ≈ 95% → **DROPS to ~88%**
 3. Expects specific distribution (pedagogical, not random)
 4. P(Suffering | Alignment) ≈ **72%** (high - suffering is PREDICTION)
 
-**Eric's Bayesian Update for Alignment**:
+**Example Bayesian Update for Alignment**:
 ```
 Prior: P(Alignment | Simulation) = 40% (starts lower due to specificity)
 P(Suffering | Alignment) = 72%
@@ -1437,7 +1437,7 @@ Alignment Hyp:     40% ████████            → 78% ████�
 - Alignment integrates ALL evidence under ONE principle: "Universe as moral training environment"
 - This is like Newton's gravity (one law → planetary motion, tides, falling objects) vs. Ptolemaic epicycles (separate mechanism for each planet)
 
-**Eric's Final Credence**:
+**Example Final Assessment**:
 ```
 After integrating all evidence and considering:
 - Convergence of independent lines (physics + AI + theology)
@@ -1445,13 +1445,13 @@ After integrating all evidence and considering:
 - Risky testable predictions (lattice signatures, AI training comparison)
 - Intellectual humility (complexity penalty, alternative explanations)
 
-Eric's credence: Alignment Hypothesis ≈ **70-80%**
+Example credence: Alignment Hypothesis ≈ **70-80%**
 (Down from naive 97% theism, up from sophisticated 40% alignment)
 ```
 
 ---
 
-**SUMMARY: Eric's Credence Evolution**
+**SUMMARY: Example Credence Evolution**
 
 ```
 Starting:                50% Theism

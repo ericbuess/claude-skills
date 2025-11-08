@@ -99,18 +99,20 @@
 **Required Additions** (Tier 1):
 
 1. **Global Falsification Clause**:
-> "The Alignment Hypothesis as a whole would be falsified if:
-> (a) All three lattice-signature tests return null results at stated thresholds by 2040, AND
-> (b) AI alignment transfer tests show NO advantage of moral training over pure RLHF, AND
+> "The Alignment Hypothesis would be **significantly weakened** or **falsified** if:
+> (a) Both testable lattice-signature predictions (CMB deviations, UHECR discrete symmetry) return null results at ≥5σ by 2040, OR
+> (b) AI alignment transfer tests show NO advantage of moral training over pure RLHF (10+ experiments, p < 0.05), OR
 > (c) Alternative explanations for fine-tuning (e.g., multiverse) gain independent empirical support.
 >
-> In that case, only generic theism (creation by unspecified means) would remain, and Alignment would be rejected as overly specific."
+> **Note**: GW dispersion is theoretical only (6 orders beyond LISA detection limits), not counted in falsification.
+>
+> Complete falsification: Both empirical tracks (physics AND AI) fail. In that case, only generic theism would remain."
 
 2. **Auxiliary Hypothesis Protocol**:
-> "If only 1/3 or 2/3 physics predictions succeed:
-> - 1/3 success: Evidence is suggestive but inconclusive. Bayesian update is modest (~5-10% credence).
-> - 2/3 success: Evidence is moderate. Bayesian update is substantial (~20-40% credence).
-> - 3/3 success: Evidence is strong. Bayesian update is major (~60-80% credence).
+> "Physics track (2 testable predictions: CMB + UHECR; GW theoretical only):
+> - 0/2 success: Computational lattice falsified at observable scales (<5% credence)
+> - 1/2 success: Suggestive but inconclusive. Modest Bayesian update (~20-30% credence)
+> - 2/2 success: Strong convergent evidence. Substantial Bayesian update (~45-60% credence)
 >
 > We commit NOW to these thresholds and will not move goalposts post-hoc."
 
@@ -200,7 +202,7 @@
 **Language Recommendations**:
 
 ❌ **BAD** (Current): "The universe shows evidence of computational substrate"
-✓ **GOOD** (Revised): "Three signatures of discrete spacetime (CMB pixelation, GW dispersion, UHECR anisotropy) are predicted at specific thresholds. If all three tests return null results at ≥5σ by 2040, the computational-lattice hypothesis is falsified."
+✓ **GOOD** (Revised): "Two testable signatures of discrete spacetime (CMB deviations, UHECR discrete symmetry) are predicted at specific thresholds. GW dispersion is theoretical only (6 orders beyond detection limits). If both testable predictions return null results at ≥5σ by 2040, the computational-lattice hypothesis is falsified."
 
 ❌ **BAD**: "AI alignment research supports the hypothesis"
 ✓ **GOOD**: "Hypothesis predicts moral-training-based AI will show KL-divergence < 0.05 vs. RLHF baselines over 6 months. If no significant difference is observed (p < 0.05), this prediction is falsified."
@@ -367,9 +369,9 @@
 ### Physics Track Summary
 
 **What to Emphasize**:
-1. **CMB pixelation** as flagship prediction (cleanest, most direct)
-2. **Convergent evidence** strategy: All three together stronger than any one
-3. **Explicit falsification**: If all three null at ≥5σ by 2040, lattice falsified
+1. **CMB deviations** as flagship prediction (cleanest, most direct)
+2. **Convergent evidence** strategy: Both testable predictions together stronger than either alone
+3. **Explicit falsification**: If both testable predictions null at ≥5σ by 2040, lattice falsified (GW dispersion theoretical only)
 
 **What to De-emphasize**:
 1. UHECR prediction (most speculative due to systematics)
@@ -607,17 +609,26 @@ CONVERGENCE:
 **Text**:
 > **What Would Falsify This Hypothesis?**
 >
-> The Alignment Hypothesis would be falsified if:
+> The Alignment Hypothesis would be **significantly weakened** or **falsified** if:
 >
-> 1. **Physics Track**: All three lattice-signature tests (CMB pixelation, GW dispersion, UHECR anisotropy) return null results at ≥5σ significance by 2040
+> 1. **Physics Track Falsification**: Both testable lattice-signature predictions (CMB deviations, UHECR discrete symmetry) return null results at ≥5σ by 2040
+>    - **Note**: GW dispersion is theoretical only (6 orders beyond LISA detection limits), not counted in falsification
+>    - **Impact**: 0/2 success → computational lattice falsified at observable scales
 >
-> 2. **AI Alignment Track**: Ten or more controlled experiments show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
+> 2. **AI Alignment Track Falsification**: Ten or more controlled experiments (2025-2035) show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
+>    - **Impact**: Null results → moral training hypothesis falsified
 >
-> 3. **Alternative Explanations Gain Support**: Independent empirical evidence for multiverse or other non-theistic fine-tuning explanations
+> 3. **Alternative Explanations Gain Support**: Independent empirical evidence for multiverse or other non-theistic fine-tuning explanations emerges
+>    - **Impact**: Alternative naturalistic explanations become more parsimonious
 >
-> If all three conditions are met, only generic theism (God creates universe for unspecified purpose by unspecified means) would remain. The specific computational-moral-training hypothesis would be rejected.
+> **Falsification Logic**:
+> - **Physics track null (0/2) OR AI track null** = Specific mechanisms falsified
+> - **Both tracks null (0/2 physics AND null AI)** = Complete falsification of computational-moral-training hypothesis
+> - **Alternative explanations confirmed** = Further weakens Bayesian support regardless
 >
-> This is stated on 2025-11-08, before decisive tests are complete, as a commitment to intellectual honesty.
+> If both empirical tracks fail, only generic theism would remain. The specific computational-moral-training hypothesis would be rejected.
+>
+> This is stated in 2024-2025, before decisive tests are complete, as a commitment to intellectual honesty.
 
 **Why Critical**: Shows the hypothesis is falsifiable, not an unfalsifiable "just-so story". Immediately increases credibility with scientists.
 
