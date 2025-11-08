@@ -484,7 +484,7 @@ William James (1896): When evidence is inconclusive, you have RIGHT to believe b
 
 ---
 
-**Confidence**: **40-60%** - Eric's personal credence. One specific arrangement among infinite possible, but best-supported by evidence.
+**Example Credence Range**: **40-60%** (illustrative assessment showing how a rational person might weigh the evidence). One specific arrangement among infinite possible, but arguably best-supported by available evidence. Your assessment may differ based on priors and evidence weighting.
 
 ---
 
@@ -2103,15 +2103,24 @@ The physics predictions were developed with AI assistance to explore what **migh
 
 **Global Falsifiability Clause** (stated 2025-11-08, before decisive tests complete):
 
-The Alignment Hypothesis would be falsified if:
+The Alignment Hypothesis would be **significantly weakened** or **falsified** if:
 
-1. **Physics Track**: All three lattice-signature tests (CMB pixelation, GW dispersion, UHECR discrete symmetry) return null results at ≥5σ significance by 2040
+1. **Physics Track Falsification**: Both testable lattice-signature predictions (CMB deviations, UHECR discrete symmetry) return null results at ≥5σ by 2040
+   - **Note**: GW dispersion is theoretical only (6 orders beyond LISA detection limits), not counted in falsification
+   - **Impact**: 0/2 success → computational lattice falsified at observable scales
 
-2. **AI Alignment Track**: Ten or more controlled experiments (2025-2035) show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
+2. **AI Alignment Track Falsification**: Ten or more controlled experiments (2025-2035) show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
+   - **Impact**: Null results → moral training hypothesis falsified
 
 3. **Alternative Explanations Gain Support**: Independent empirical evidence for multiverse or other non-theistic fine-tuning explanations emerges
+   - **Impact**: Alternative naturalistic explanations become more parsimonious
 
-If all three conditions are met, only generic theism (God creates universe for unspecified purpose by unspecified means) would remain. The specific **computational-moral-training hypothesis** would be rejected.
+**Falsification Logic**:
+- **Physics track null (0/2) OR AI track null** = Specific mechanisms falsified
+- **Both tracks null (0/2 physics AND null AI)** = Complete falsification of computational-moral-training hypothesis
+- **Alternative explanations confirmed** = Further weakens Bayesian support regardless
+
+If both empirical tracks fail, only generic theism (God creates universe for unspecified purpose by unspecified means) would remain. The specific **computational-moral-training hypothesis** would be rejected.
 
 **This is stated NOW as a commitment to intellectual honesty** - we will not move goalposts post-hoc if tests fail.
 
@@ -2121,7 +2130,7 @@ If all three conditions are met, only generic theism (God creates universe for u
 
 **IF** the universe is a computational simulation (as Alignment Hypothesis suggests), we should see subtle artifacts of the underlying computational substrate—like "sub-pixel aliasing" or "lattice signatures."
 
-**Three Specific Predictions**:
+**Physics Predictions: 2 Testable + 1 Theoretical**
 
 **1. Ultra-High-Energy Cosmic Rays: Discrete Rotational Symmetry Breaking**
 
@@ -2146,17 +2155,19 @@ If all three conditions are met, only generic theism (God creates universe for u
 
 ---
 
-**2. Gravitational-Wave Dispersion** (Theoretical)
+**2. Gravitational-Wave Dispersion** (THEORETICAL ONLY - Not Counted in Falsification)
 
-**Prediction**: Frequency-dependent speed variance, if lattice structure exists at Planck scale.
+**Prediction**: Frequency-dependent speed variance at Δv/c ~ 10⁻²³ if lattice structure exists at Planck scale.
 
-**Current Status**: LIGO/Virgo constrain Δv/c < 10⁻¹⁵. Lattice-scale dispersion would require Δv/c ~ 10⁻²³ or smaller - **currently 8 orders of magnitude below detection limits**.
+**Why This Is Theoretical Only**:
+- **Required sensitivity**: 10⁻²³ (lattice-scale effects)
+- **Current best (LIGO/Virgo)**: 10⁻¹⁵ (8 orders too insensitive)
+- **LISA (2037)**: Will reach ~10⁻¹⁷ (still 6 orders too insensitive)
+- **No planned experiments will reach required sensitivity by 2040**
 
-**Realistic Assessment**: **LISA (2037) will NOT detect this** - it improves sensitivity to 10⁻¹⁷ at best, still 6 orders too large.
+**Status**: Beyond foreseeable technology (post-2050 at earliest). Kept for theoretical completeness and to inspire future experimental design, but **NOT counted as testable prediction for falsification purposes**.
 
-**Theoretical Prediction**: If future technology (post-2050) achieves 10⁻²³ sensitivity and detects NO dispersion, lattice hypothesis weakened. But this is beyond foreseeable experimental capacity.
-
-**Intellectual Honesty**: This prediction is currently **unfalsifiable** - kept for theoretical completeness, but should not be counted as "risky testable prediction" in near-term.
+**Intellectual Honesty**: This prediction is currently unfalsifiable - it should NOT be counted as "risky testable prediction" in near-term falsification framework.
 
 ---
 
@@ -2199,9 +2210,9 @@ If all three conditions are met, only generic theism (God creates universe for u
 **What This Means**:
 - **UHECR prediction**: Genuinely risky and testable by 2040 (AugerPrime/TAx4 will have sensitivity)
 - **CMB prediction**: Testable but less specific than ideal (no unique functional form predicted)
-- **GW dispersion**: Theoretical only - not testable in foreseeable future (6 orders beyond LISA)
+- **GW dispersion**: Theoretical only - not testable in foreseeable future (6 orders beyond LISA detection limits)
 
-**Epistemic Status**: Alignment Hypothesis retains **1-2 risky near-term predictions** (UHECR + CMB), not 3. This is more honest but reduces empirical testability.
+**Epistemic Status**: Alignment Hypothesis retains **2 testable predictions** (CMB + UHECR) for falsification purposes; GW dispersion is theoretical only. This is intellectually honest about what's actually measurable with near-term technology.
 
 **This is KARL POPPER 101**: Good hypotheses are falsifiable. Alignment Hypothesis makes its throat available to the knife - but only on predictions that are actually **measurable** with near-term technology.
 
@@ -2637,12 +2648,14 @@ Alignment Hypothesis doesn't fully explain:
 | Suffering | 70% | 50% | 80% |
 | Moral Realism | 80% | 85% | 30% |
 
-### Posteriors (Eric's Calculation)
+### Example Posterior Assessments
 
-**After all evidence**:
-- P(Alignment Hypothesis | E) = **40-60%** (Eric's personal credence)
+**After all evidence** (illustrative ranges showing how a rational person might update):
+- P(Alignment Hypothesis | E) = **40-60%** (example credence range)
 - P(Classical Theism | E) = 30-50%
 - P(Multiverse | E) = 25-40%
+
+**Note**: These are pedagogical examples, not fixed commitments. Your posteriors will differ based on your priors and evidence weighting.
 
 **Interpretation**: Alignment Hypothesis scores best on **integrated explanation** (no other framework handles fine-tuning + consciousness + suffering + morality as well).
 

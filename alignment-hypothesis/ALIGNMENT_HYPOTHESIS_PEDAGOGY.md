@@ -379,7 +379,7 @@ Standard debate:
 
 **Phase 7 (Synthesis)**:
 - Present Alignment as **Eric's meta-framework to make belief possible**
-- 70-80% confidence (Eric's personal credence: 40-60%, being more conservative)
+- 70-80% confidence (Example credence range: 40-60%, illustrative assessment)
 - Acknowledge weaknesses: complexity, theodicy gaps, Christology, speculation
 
 **Key**: Alignment introduced AFTER showing standard hypotheses struggle, and introduced AS a predictive meta-framework, not as a peer hypothesis.

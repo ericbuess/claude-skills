@@ -321,7 +321,7 @@ olence + evil)
 
 ### Bayesian Priors
 
-- **Eric's credence**: 40-60% (exploratory, early version v0.1)
+- **Example credence range**: 40-60% (illustrative assessment, early beta v0.0.2)
 - **General credence**: 10-30% (novel, speculative, but interesting)
 
 ---

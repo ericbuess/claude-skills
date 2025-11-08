@@ -86,8 +86,8 @@
 **Falsifiability Audit**:
 
 **Currently PASSING**:
-✓ Computational lattice falsifiable: "If Lorentz-invariant spacetime confirmed to 10⁻²² m with no dispersion at ≥5σ, falsified"
-✓ Three physics predictions are risky (could fail)
+✓ Computational lattice falsifiable: "If both testable predictions (CMB + UHECR) return null at ≥5σ by 2040, falsified"
+✓ Two testable physics predictions are risky (could fail); GW dispersion theoretical only
 ✓ AI alignment prediction has quantitative metric
 
 **Currently FAILING**:
@@ -223,9 +223,9 @@
 **Response**: ACKNOWLEDGED. This is why we need:
 - Alternative explanations table (added above)
 - Statement that CMB detection is "consistent with but not proof of" simulation
-- Emphasis on CONVERGENT EVIDENCE (all three physics tests + AI test)
+- Emphasis on CONVERGENT EVIDENCE (both testable physics predictions + AI test)
 
-**Recommended revision**: "CMB pixelation alone would not confirm simulation. However, if ALL THREE physics signatures appear at predicted thresholds, likelihood of simulation increases substantially."
+**Recommended revision**: "CMB deviations alone would not confirm simulation. However, if BOTH testable physics signatures (CMB + UHECR) appear at predicted thresholds, likelihood of simulation increases substantially. GW dispersion is theoretical only (6 orders beyond detection limits)."
 
 ---
 
@@ -384,7 +384,7 @@
 > "Three lattice signatures will be detected by 2040"
 
 **REVISED** (appropriately hedged):
-> "Three lattice signatures are predicted with specific thresholds and timelines. If ALL THREE return null results at ≥5σ by 2040, the computational-lattice hypothesis is falsified. If one or more are detected, this constitutes strong (but not definitive) evidence for discrete spacetime, consistent with but not proof of simulation."
+> "Two testable lattice signatures are predicted (CMB deviations, UHECR discrete symmetry) with specific thresholds and timelines. GW dispersion is theoretical only (6 orders beyond LISA detection limits). If BOTH testable predictions return null results at ≥5σ by 2040, the computational-lattice hypothesis is falsified. If one or both are detected, this constitutes strong (but not definitive) evidence for discrete spacetime, consistent with but not proof of simulation."
 
 ---
 
@@ -969,7 +969,7 @@ CONVERGENCE:
 >    - Instrument: CTA, before 2040
 >    - Falsification: If 1000+ events show NO anisotropy at ≥5σ, falsified
 >
-> **Global Physics Falsification**: If ALL THREE tests return null results by 2040, computational lattice falsified.
+> **Global Physics Falsification**: If BOTH testable predictions (CMB + UHECR) return null results by 2040, computational lattice falsified. (GW dispersion theoretical only, not counted.)
 >
 > **AI Alignment Track: Moral Training Transfer**
 >

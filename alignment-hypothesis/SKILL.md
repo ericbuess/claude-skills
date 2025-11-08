@@ -1,6 +1,6 @@
 ---
 name: alignment-hypothesis
-description: Interactive Bayesian pedagogy tool centered on the Alignment Hypothesis—a predictive meta-framework showing how both theism and naturalism converge on simulation theory, and how AI alignment research reveals our universe as a moral training environment. Features dual-tracking Bayesian calculator (Eric's credences + user's credences), progressive argument walkthrough (Contingency → Fine-Tuning → Consciousness → Moral → Suffering → Integration), and risky testable predictions. Emphasizes predictive vs. accommodative explanations, intellectual humility, and process over product. Created by Eric Buess. Trigger when users ask about God, meaning, consciousness, suffering, simulation theory, AI alignment, theodicy, or worldview comparison.
+description: Interactive Bayesian pedagogy tool centered on the Alignment Hypothesis—a predictive meta-framework showing how both theism and naturalism converge on simulation theory, and how AI alignment research reveals our universe as a moral training environment. Features dual-tracking Bayesian calculator (example credences + user's credences), progressive argument walkthrough (Contingency → Fine-Tuning → Consciousness → Moral → Suffering → Integration), and risky testable predictions. Emphasizes predictive vs. accommodative explanations, intellectual humility, and process over product. Created by Eric Buess. Trigger when users ask about God, meaning, consciousness, suffering, simulation theory, AI alignment, theodicy, or worldview comparison.
 ---
 
 # The Alignment Hypothesis: Interactive Bayesian Explorer
@@ -871,7 +871,7 @@ P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tunin
 
 ### Dual-Tracking Bayesian Pedagogy
 
-**Core Innovation**: This skill doesn't just present Eric's credences—it walks users through progressive argument evaluation with **parallel credence tracking**.
+**Core Innovation**: This skill doesn't just present example credences—it walks users through progressive argument evaluation with **parallel credence tracking**.
 
 **The Method**:
 
@@ -884,7 +884,7 @@ P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tunin
    - Integration (How does one framework unify all?)
 
 2. **Dual-Tracking at Each Step**:
-   - Show **Eric's credences** (with full reasoning)
+   - Show **example credences** (with full reasoning)
    - Elicit **user's credences** (with Socratic questions)
    - Calculate **both posteriors** using Bayes' Theorem
    - Display **side-by-side comparison**
@@ -1218,7 +1218,7 @@ Would you like to explore the other evidence tracks (fine-tuning, consciousness,
 **This sample conversation demonstrates:**
 1. ✅ Socratic questioning first
 2. ✅ Eliciting user's credences
-3. ✅ Showing Eric's credences in parallel
+3. ✅ Showing example credences in parallel
 4. ✅ Calculating both posteriors
 5. ✅ Visual side-by-side display
 6. ✅ The pivot point (suffering as differentiator)
@@ -1348,7 +1348,7 @@ Posterior ≈ 97%
 
 **Evidence Type**: Tier 3 (Abductive)
 
-**Status at this point**: Eric's credence for theism is VERY HIGH (97%). Classical apologetics would stop here. But...
+**Status at this point**: Example credence for theism is VERY HIGH (97%). Classical apologetics would stop here. But...
 
 ---
 
