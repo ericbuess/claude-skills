@@ -108,8 +108,8 @@ Use **REFERENCE_TEMPLATES.md** for each file's complete structure.
    - Sandbox hypothesis response
    - ~8KB
 
-7. **`references/sandbox-hypothesis.md`**
-   - Complete explanation (from Eric's paper)
+7. **`references/alignment-hypothesis.md`** (Eric Buess)
+   - Complete explanation (from Eric's paper at alignment-universe/main-hypothesis.md)
    - Strengths (testable, coherent, novel)
    - Weaknesses (parsimony, theodicy, Christology)
    - Integration strategy (40-60% confidence)

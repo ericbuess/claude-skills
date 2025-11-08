@@ -379,7 +379,11 @@ P(H|E) = [P(E|H) × P(H)] / [P(E|H)×P(H) + P(E|¬H)×P(¬H)]
 
 ---
 
-## Sandbox Hypothesis Integration
+## The Alignment Hypothesis Integration
+
+**Author**: Eric Buess
+**Paper**: `/Users/ericbuess/Projects/alignment-universe/main-hypothesis.md`
+**Status**: Early version (v0.1) - skill helps sharpen and test the idea
 
 ### Positioning
 
@@ -400,9 +404,10 @@ P(H|E) = [P(E|H) × P(H)] / [P(E|H)×P(H) + P(E|¬H)×P(¬H)]
 ### How to Present
 
 ```
-"One novel framework is the 'moral sandbox hypothesis' - the idea that our
-universe might be an engineered moral training environment for cultivating
-freely aligned agents, essentially solving AI alignment at cosmic scale.
+"One novel framework is **The Alignment Hypothesis** by Eric Buess - the idea
+that our universe might be an engineered moral training environment for
+cultivating freely aligned agents, essentially solving AI alignment at cosmic
+scale.
 
 **Design Requirements** → **Physical Correlates**:
 - Causal firewall → Speed of light limit, cosmic horizon
