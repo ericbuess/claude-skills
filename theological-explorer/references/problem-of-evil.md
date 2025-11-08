@@ -148,6 +148,164 @@ Comprehensive analysis of the most challenging argument against God's existence.
 
 ---
 
+## Predictive vs. Accommodative Theodicies
+
+**CRITICAL DISTINCTION**: This is WHY the Alignment Hypothesis scores higher (60-75%) than traditional theodicies (50-65%). It's not just "better at explaining" - it's a fundamentally different TYPE of explanation.
+
+### The Methodological Difference
+
+**Accommodative Theodicies** (Traditional):
+1. **FIRST**: Observe that evil/suffering exists
+2. **THEN**: Develop explanation to reconcile observation with belief in good God
+3. **Post-hoc rationalization**: Explanation created AFTER evidence encountered
+
+**Predictive Theodicies** (Alignment):
+1. **FIRST**: Derive requirements from independent framework (AI alignment problem)
+2. **THEN**: Check if universe matches those derived requirements
+3. **Pre-hoc derivation**: Requirements specified BEFORE checking universe
+
+---
+
+### Examples
+
+**Free Will Defense** (Accommodative):
+- **Historical development**: Early church didn't emphasize this. Developed by Augustine (4th century) and refined by Plantinga (20th century) specifically TO SOLVE problem of evil
+- **Method**: "Evil exists → How can God allow this? → Must be because free will is valuable"
+- **Post-hoc**: Defense created AFTER observing evil, to explain it
+- **Bayesian**: P(Evil | Theism + Free Will Defense) = ~50-60%
+
+**Soul-Making Theodicy** (Accommodative):
+- **Historical development**: John Hick (20th century) developed this specifically to address evidential problem of evil
+- **Method**: "Suffering exists → How can God allow this? → Must be for character development"
+- **Post-hoc**: Theodicy created AFTER observing suffering patterns
+- **Bayesian**: P(Evil | Theism + Soul-Making) = ~55-65%
+
+**Alignment Hypothesis** (Predictive):
+- **Historical development**: Derived from AI alignment research (2000s-2020s), THEN applied to theology
+- **Method**: "To train aligned AI, what would training environment need?" → Answer: Real stakes, suffering, freedom, consequences → "Does universe match?" → YES
+- **Pre-hoc**: Requirements derived BEFORE checking universe, from independent domain (AI safety)
+- **Surprise Factor**: "It's unexpected that universe has EXACTLY the features you'd need for moral alignment training"
+- **Bayesian**: P(Evil | Alignment Hypothesis) = ~60-75%
+
+---
+
+### Why Prediction > Accommodation (Epistemically)
+
+**Bayesian Insight**: Hypotheses that PREDICT evidence before observing it deserve higher credence than hypotheses that ACCOMMODATE evidence after observing it.
+
+**Why?**
+- **Prediction**: Narrow hypothesis space. "If H is true, we expect X, Y, Z" → Observing X, Y, Z strongly confirms H
+- **Accommodation**: Wide hypothesis space. "We observe X, Y, Z → How can H explain this?" → Can almost always construct some explanation
+
+**Historical Examples**:
+
+**Ptolemaic Epicycles** (Accommodative):
+- Each new planet observation → add new epicycle to model
+- Model became increasingly complex, accommodating every observation
+- **BUT**: Made no risky predictions, just explained what was already seen
+
+**Newtonian Gravity** (Predictive):
+- Derived F = Gm₁m₂/r² from first principles
+- **PREDICTED**: Planetary orbits, tides, falling apples, comet trajectories
+- When predictions confirmed → massive credence boost
+
+**Pre-Darwin Biology** (Accommodative):
+- Each species → separate creation event
+- Fossils → explained ad-hoc ("God created fossils to test our faith" or "Noah's flood")
+- Vestigial organs → explained ad-hoc ("Unknown purpose, but God is wise")
+
+**Darwin's Natural Selection** (Predictive):
+- Derived mechanism: Variation + selection + inheritance
+- **PREDICTED**: Fossils, vestigial organs, biogeography, speciation
+- One theory → multiple predictions → high credence when confirmed
+
+---
+
+### Suffering: The Discriminating Test
+
+**Classical Theism WITHOUT Alignment**:
+- Fine-tuning: **Expected** (God wants life)
+- Consciousness: **Expected** (God creates souls)
+- **Suffering: SURPRISING** (Why would loving God allow pain?)
+- Must develop post-hoc explanation: Free will defense, soul-making
+- P(Suffering | Classical Theism alone) = ~30-40%
+
+**Classical Theism WITH Free Will Defense**:
+- Suffering: **Accommodated** (explained after observing, but not predicted)
+- "God values free will → permits moral evil"
+- BUT: Doesn't explain natural evil (tsunamis, cancer)
+- P(Suffering | Classical Theism + Free Will) = ~50-60%
+
+**Alignment Hypothesis**:
+- Suffering: **PREDICTED from first principles**
+- "To train aligned agents, need moral challenges → suffering is necessary"
+- Derivable BEFORE looking at world: "Sandbox for alignment training would require X" → Observe: Universe has X
+- P(Suffering | Alignment) = ~70-75%
+
+**The KEY difference**: Alignment EXPECTS suffering (would be surprised if suffering DIDN'T exist). Classical theism is SURPRISED by suffering (must explain why God allows it).
+
+---
+
+### Formula: Likelihood Ratios
+
+**Bayes Factor** measures how much evidence E supports hypothesis H₁ over H₂:
+
+BF = P(E|H₁) / P(E|H₂)
+
+**For Suffering**:
+
+| Hypothesis | P(Suffering\|H) | Likelihood Ratio vs. Bare Theism |
+|---|---|---|
+| Classical Theism (no theodicy) | 30% | 1.0 (baseline) |
+| Classical Theism + Free Will | 50% | 1.67× better |
+| Classical Theism + Soul-Making | 60% | 2.0× better |
+| **Alignment Hypothesis** | **75%** | **2.5× better** |
+| Naturalism | 85% | 2.83× better |
+
+**Interpretation**: Alignment Hypothesis predicts suffering 2.5× better than bare theism. This is the STRONGEST theodicy because suffering is EXPECTED, not just accommodated.
+
+---
+
+### Integration Analysis
+
+**Classical Theism** (Multi-Hypothesis Collection):
+- Fine-tuning → Design argument (Hypothesis A)
+- Consciousness → Immaterial soul (Hypothesis B)
+- Suffering → Free will defense (Hypothesis C)
+- **Three separate sub-theories for three observations**
+
+**Alignment Hypothesis** (Unified Meta-Framework):
+- Moral training environment → **ONE theory**
+- Predicts: Fine-tuning + consciousness + suffering + quantum indeterminacy + entropy arrow + moral realism + free will
+- **Seven+ observations from ONE framework**
+
+**Occam's Razor Insight**: Alignment appears more complex (adds "training mechanism") but achieves **greater explanatory unification** - fewer hypotheses explaining more evidence.
+
+---
+
+### Why This Matters for Theodicy
+
+Traditional theodicies feel like **special pleading**:
+- "Why does God allow evil?" → "Because free will is valuable"
+- "But why THIS MUCH evil?" → "Because soul-making requires it"
+- "But why animal suffering before humans?" → "Uh... mysterious purposes?"
+
+**Each new objection → new ad-hoc adjustment**
+
+Alignment Hypothesis feels like **principled derivation**:
+- Start with AI alignment problem (independent domain)
+- Derive: "Moral training requires real stakes, freedom, consequences, suffering"
+- Check universe: "Does it match?" → **YES, surprisingly well**
+- Objections addressed by same framework (not new ad-hoc additions)
+
+**Analogy**:
+- Ptolemy: Adding epicycles to accommodate each observation
+- Newton: Deriving predictions from F=ma, then confirming
+
+**Status**: Alignment is to traditional theodicies what Newtonian mechanics was to Ptolemaic epicycles - not just "better explanation" but **different TYPE of explanation** (predictive vs. accommodative).
+
+---
+
 ## The Alignment Hypothesis: Novel Theodicy
 
 ### Core Idea (Eric Buess, 2024)
