@@ -2,16 +2,17 @@
 
 **Author**: Eric Buess | [@EricBuess](https://x.com/EricBuess) | [ericbuess.ai](https://ericbuess.ai) | [alignmenthypothesis.com](https://alignmenthypothesis.com)
 
-**Date**: 2024
-**Status**: Early version (v0.1)—exploratory, speculative, generative
-**Confidence**:
-- **P(We're in some kind of simulation)**: 70-90% (Bostrom's argument + multiverse → simulation)
-- **P(Simulation is for moral alignment specifically)**: 60-75% (evidence discriminates purpose)
-- **P(Christian God specifically)**: 40-60% (Eric's personal credence - one arrangement among infinite possible)
-- **Methodological Credence**: 70-80% (what framework yields when properly weighted as predictive meta-framework)
-- **User Credence**: Varies (skill helps calibrate, not impose)
+**Date**: 2024-2025
+**Status**: Early beta version (v0.0.2)—exploratory, speculative, generative
+**Example Rational Credence Ranges** (Illustrative, not fixed values):
+- **P(Information-dependent reality)**: 50-85% (Bostrom's argument + multiverse convergence)
+- **P(Moral development purpose | info-reality)**: 40-70% (evidence discriminates purpose)
+- **P(Christian theological framework | moral design)**: 25-55% (one framework among many possible)
+- **Methodological Assessment**: 60-75% (Bayesian framework yields when treating as predictive meta-framework)
+- **Your Credence**: Will vary based on your priors and evidence weighting
 
-**Paper**: `/Users/ericbuess/Projects/alignment-universe/main-hypothesis.md`
+**Main Paper**: `/Users/ericbuess/Projects/claude-skills/alignment-hypothesis/alignment-hypothesis.md` (v0.0.2)
+**This Document**: Theological integration and computational Christology deep-dive
 
 ---
 

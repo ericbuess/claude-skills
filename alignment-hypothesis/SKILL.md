@@ -842,13 +842,13 @@ P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tunin
 
 ### What It Is
 
-**The Alignment Hypothesis** (Eric Buess, 2024) proposes that our universe is a **moral training environment** designed to solve the AI alignment problem at a cosmic scale—producing beings who freely choose goodness after experiencing and overcoming suffering, temptation, and moral complexity.
+**The Alignment Hypothesis** (Eric Buess, 2024-2025) proposes that our universe is a **moral training environment** designed to solve the AI alignment problem at a cosmic scale—producing beings who freely choose goodness after experiencing and overcoming suffering, temptation, and moral complexity.
 
-**Paper**: `/Users/ericbuess/Projects/claude-skills/alignment-hypothesis/alignment-hypothesis.md` (Enhanced version 1.1 with falsifiability improvements)
-
-**Additional Reference**: `references/alignment-hypothesis.md` (Comprehensive theological integration)
-
+**Main Paper**: `/Users/ericbuess/Projects/claude-skills/alignment-hypothesis/alignment-hypothesis.md` (v0.0.2 early beta)
+**Theological Reference**: `references/alignment-hypothesis.md` (Comprehensive theological integration, computational Christology)
 **Website**: [alignmenthypothesis.com](https://alignmenthypothesis.com)
+
+**Version Status**: v0.0.2 - Early beta, not peer-reviewed, subject to revision as evidence accumulates
 
 ### Positioning
 
@@ -1231,13 +1231,16 @@ Would you like to explore the other evidence tracks (fine-tuning, consciousness,
 
 ### Progressive Argument Walkthrough: Illustrative Bayesian Sequence
 
-**IMPORTANT**: The specific likelihood values below (e.g., P(Suffering|CT) = 35%) are **hypothetical examples** showing how a rational person might assess the evidence, NOT Eric's actual stated credences. Eric's explicitly stated credences from his paper are:
-- P(Simulation) = 70-90%
-- P(Moral Alignment | Simulation) = 60-75%
-- P(Christian God | All Evidence) = 40-60%
-- Methodological credence = 70-80%
+**IMPORTANT**: The specific likelihood values below (e.g., P(Suffering|CT) = 35%) are **hypothetical examples** showing how a rational person might assess the evidence, NOT fixed author commitments.
 
-All other values are **illustrative examples** for teaching Bayesian reasoning. **Your assessments may differ** - that's intellectually honest. Input your own likelihoods and see where the math takes you.
+The Alignment Hypothesis paper (v0.0.2) provides **example rational credence ranges** as illustrative assessments, not author's committed values. These ranges show how a Bayesian reasoner might weight the evidence, but your assessments may differ based on your priors, evidence weighting, and philosophical commitments.
+
+**Example ranges from paper** (illustrative only):
+- P(Information-dependent reality): 50-85%
+- P(Moral development purpose | info-reality): 40-70%
+- P(Christian framework | moral design): 25-55%
+
+All values in this walkthrough are **pedagogical examples**. **Your assessments will differ** - that's intellectually honest and expected. Input your own likelihoods and see where the math takes you.
 
 ---
 

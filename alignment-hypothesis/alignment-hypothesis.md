@@ -3,15 +3,18 @@
 
 **Author: Eric Buess** | [@EricBuess](https://x.com/EricBuess) | [ericbuess.ai](https://ericbuess.ai) | [alignmenthypothesis.com](https://alignmenthypothesis.com)
 
-**Date**: 2024
-**Version**: 1.1 (Enhanced with falsifiability improvements, 2025-11-08)
-**Status**: Early exploratory framework—speculative, generative, falsifiable
+**Date**: 2024-2025
+**Version**: 0.0.2 (Early beta - not peer-reviewed, subject to revision)
+**Status**: Exploratory framework—speculative, generative, falsifiable
 
-**Confidence Intervals**:
-- **P(We're in some kind of simulation)**: 70-90% (Bostrom's argument + multiverse → simulation)
-- **P(Simulation is for moral alignment specifically)**: 60-75% (evidence discriminates purpose)
-- **P(Christian God specifically)**: 40-60% (my personal credence - one arrangement among infinite possible)
-- **Methodological Credence**: 70-80% (what framework yields when properly weighted as predictive meta-framework)
+**Example Rational Credence Ranges** (Illustrative, not author's committed values):
+
+These ranges show how a rational person *might* assess the evidence using Bayesian reasoning. Your assessments may differ based on your priors, evidence weighting, and philosophical commitments. The author's personal credences are not fixed and may evolve as evidence accumulates.
+
+- **P(We're in some kind of information-dependent reality)**: 50-85% (Bostrom's argument + multiverse → simulation)
+- **P(Reality designed for moral development specifically | information-dependent)**: 40-70% (evidence discriminates purpose)
+- **P(Christian theological framework specifically | moral design)**: 25-55% (one specific framework among many possible)
+- **Methodological Assessment**: 60-75% (what Bayesian framework yields when treating as predictive meta-framework, before personal discounts)
 
 ---
 
@@ -95,11 +98,12 @@ The modern challenge of AI alignment offers a novel interpretive heuristic for t
 
 ### 1.1.4 Global Falsifiability Clause
 
-**Stated 2025-11-08, before decisive tests complete, as a commitment to intellectual honesty:**
+**Stated 2024-2025, before decisive tests complete, as a commitment to intellectual honesty:**
 
 The Alignment Hypothesis would be falsified if:
 
-1. **Physics Track**: All three lattice-signature tests (CMB pixelation, GW dispersion, UHECR discrete symmetry) return null results at ≥5σ significance by 2040
+1. **Physics Track**: Both testable lattice-signature predictions (CMB deviations, UHECR discrete symmetry) return null results at ≥5σ significance by 2040
+   - **Note**: GW dispersion prediction is theoretical only (6 orders of magnitude beyond detection limits with LISA by 2037), so it's not counted in falsification criteria
 
 2. **AI Alignment Track**: Ten or more controlled experiments (2025-2035) show NO significant difference (p < 0.05) in value drift between moral-trained and pure-RLHF agents
 
@@ -259,7 +263,14 @@ A moral sandbox designed for fallible agents would be incomplete without a mecha
 
 ## 7. Empirical / Experimental Road-Map (Risky Predictions)
 
-All risky tests are consolidated under two banners: "Lattice-Signature Physics" and "Alignment-Transfer AI." Null results—especially if achieved at stated sensitivities—would significantly lower posterior odds.
+The hypothesis makes predictions on two independent tracks: physics signatures and AI alignment outcomes. Null results—especially if achieved at stated sensitivities—would significantly lower posterior odds.
+
+### **CRITICAL DISCLAIMERS**
+
+**Physics Predictions Status**:
+- **2 Testable Predictions** (CMB, UHECR) - Results expected 2035-2040
+- **1 Theoretical Prediction** (GW dispersion) - Beyond current detection limits, not counted in falsification
+- **AI Baselines Not Yet Established**: Current RLHF value drift estimates (ΔKL ≈ 0.15-0.30) are **provisional estimates**, not empirical measurements. Baseline measurements (2025-2027) must precede comparison studies.
 
 ### **IMPORTANT NOTE FOR RESEARCHERS**
 
@@ -277,7 +288,7 @@ The physics predictions were developed with AI assistance to explore what **migh
 
 ### 7.1 Lattice-Signature Physics
 
-**THREE SPECIFIC PREDICTIONS WITH FALSIFICATION CONDITIONS:**
+**TWO TESTABLE PREDICTIONS + ONE THEORETICAL PREDICTION:**
 
 #### **Prediction 1: Ultra-High-Energy Cosmic Rays - Discrete Rotational Symmetry Breaking**
 
@@ -302,17 +313,20 @@ The physics predictions were developed with AI assistance to explore what **migh
 
 ---
 
-#### **Prediction 2: Gravitational-Wave Dispersion** (Theoretical)
+#### **Prediction 2: Gravitational-Wave Dispersion** (THEORETICAL ONLY - Not Counted in Falsification)
 
-**Prediction**: Frequency-dependent speed variance, if lattice structure exists at Planck scale.
+**Prediction**: Frequency-dependent speed variance at Δv/c ~ 10⁻²³ if lattice structure exists at Planck scale.
 
 **Current Status**: LIGO/Virgo constrain Δv/c < 10⁻¹⁵. Lattice-scale dispersion would require Δv/c ~ 10⁻²³ or smaller - **currently 8 orders of magnitude below detection limits**.
 
-**Realistic Assessment**: **LISA (2037) will NOT detect this** - it improves sensitivity to 10⁻¹⁷ at best, still 6 orders too large.
+**Realistic Assessment**: **LISA (2037) will NOT detect this** - it improves sensitivity to 10⁻¹⁷ at best, still 6 orders too large. Future technology (post-2050) might achieve necessary sensitivity, but this is beyond foreseeable experimental capacity.
 
-**Theoretical Prediction**: If future technology (post-2050) achieves 10⁻²³ sensitivity and detects NO dispersion, lattice hypothesis weakened. But this is beyond foreseeable experimental capacity.
-
-**Intellectual Honesty**: This prediction is currently **unfalsifiable** - kept for theoretical completeness, but should not be counted as "risky testable prediction" in near-term.
+**Why This Is Theoretical Only**:
+- Required sensitivity is 10⁻²³, current best is 10⁻¹⁵ (8 orders too large)
+- LISA will improve to ~10⁻¹⁷ (still 6 orders too large)
+- No planned experiments will reach required sensitivity by 2040
+- Therefore: **This is NOT counted among testable predictions for falsification purposes**
+- Kept for theoretical completeness and to inspire future experimental design
 
 ---
 
@@ -362,17 +376,18 @@ Each prediction could potentially be explained by mechanisms OTHER than simulati
 
 ### **Auxiliary Hypothesis Protocol: What If Only Some Predictions Succeed?**
 
-We commit NOW to the following Bayesian updating thresholds (stated 2025-11-08, before tests complete):
+We commit NOW to the following Bayesian updating thresholds (stated 2024-2025, before tests complete):
 
-**Physics Track** (out of 3 predictions):
-- **0/3 success**: Computational lattice falsified at observable scales. Fall back to generic theism (God creates by unspecified means).
-  - **Credence update**: Lattice hypothesis drops to <5%
-- **1/3 success**: Suggestive but inconclusive evidence.
-  - **Credence update**: Modest (~5-10% → ~15-20%)
-- **2/3 success**: Moderate evidence for computational substrate.
-  - **Credence update**: Substantial (~5-10% → ~30-45%)
-- **3/3 success**: Strong convergent evidence for lattice.
-  - **Credence update**: Major (~5-10% → ~60-75%)
+**Physics Track** (2 testable predictions: CMB + UHECR):
+- **0/2 success** (both null): Computational lattice falsified at observable scales.
+  - **Example credence update**: Lattice hypothesis drops to <5%
+  - Fall back to non-computational explanations
+- **1/2 success** (one positive): Suggestive but inconclusive evidence.
+  - **Example credence update**: Modest increase (~10-15% → ~20-30%)
+- **2/2 success** (both positive): Strong convergent evidence for lattice.
+  - **Example credence update**: Substantial increase (~10-15% → ~45-60%)
+
+**Note**: GW dispersion not included in this count (theoretical only)
 
 **AI Alignment Track**:
 - **Null result** (ΔKL ≥ 0.05, no difference from RLHF): Moral training prediction falsified.
@@ -385,13 +400,15 @@ We commit NOW to the following Bayesian updating thresholds (stated 2025-11-08, 
   - **Credence update**: ~40-60%
 
 **Convergence Analysis** (combining both tracks):
-- **Physics 0/3 + AI null**: Hypothesis falsified. **Credence: <1%**
-- **Physics 1-2/3 + AI null**: Weak support for computation, moral training falsified. **Credence: ~5-15%**
-- **Physics 0/3 + AI positive**: Moral training works, but universe not computed (generic theism remains). **Credence: ~10-25%**
-- **Physics 1-2/3 + AI positive**: Moderate convergent evidence. **Credence: ~30-50%**
-- **Physics 3/3 + AI positive (large effect)**: Strong convergent evidence from two independent tracks. **Credence: ~60-80%**
+- **Physics 0/2 + AI null**: Hypothesis falsified. **Example credence: <1%**
+- **Physics 1/2 + AI null**: Weak support for computation, moral training falsified. **Example credence: ~5-15%**
+- **Physics 0/2 + AI positive**: Moral training works, but universe not computed. **Example credence: ~10-25%**
+- **Physics 1/2 + AI positive**: Moderate convergent evidence. **Example credence: ~30-50%**
+- **Physics 2/2 + AI positive (large effect)**: Strong convergent evidence from two independent tracks. **Example credence: ~55-75%**
 
-**These thresholds are stated NOW (2025-11-08) as a pre-commitment against post-hoc goalpost moving.**
+**These thresholds are stated NOW (2024-2025) as a pre-commitment against post-hoc goalpost moving.**
+
+**Important**: These are *example* credence updates showing how a rational Bayesian might respond to evidence. Actual credences depend on individual priors, evidence weighting, and philosophical commitments.
 
 ---
 

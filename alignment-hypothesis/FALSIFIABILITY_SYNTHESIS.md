@@ -631,29 +631,33 @@ CONVERGENCE:
 
 > **Physics Track Predictions (with Falsification Conditions)**:
 >
-> **Prediction 1: CMB B-Mode Pixelation**
-> - **What**: Power-spectrum drop beyond ℓ ≈ 2πR/ℓ_P
-> - **Threshold**: Amplitude ≥10⁻³ relative to ΛCDM smooth extrapolation
+> **Prediction 1: CMB B-Mode Power Spectrum Deviations**
+> - **What**: Subtle deviations from ΛCDM predictions at angular scales ℓ ~ 2000-5000
+> - **Threshold**: Amplitude ≥10⁻³ relative to ΛCDM predictions
 > - **Significance**: ≥5σ
-> - **Instrument**: CMB Stage-4 (CMB-S4)
-> - **Timeline**: Target 2035
-> - **Falsification**: If CMB-S4 measures power spectrum to ℓ ≈ 5000 with NO deviation from ΛCDM at ≥5σ, pixelation prediction is falsified
+> - **Instruments**: LiteBIRD (JAXA satellite, launch ~2032), Simons Observatory (operational 2024+)
+> - **Timeline**: 2032-2037
+> - **Falsification**: If LiteBIRD and Simons Observatory measure to ℓ ~ 5000 with perfect agreement to ΛCDM (no ≥5σ deviations), prediction falsified
+> - **Caveat**: Less specific than ideal (no exact functional form specified), risk of false positives
 >
-> **Prediction 2: Gravitational Wave Dispersion**
-> - **What**: Frequency-dependent speed variance
-> - **Threshold**: Δv/c ≈ 10⁻²³ over z > 0.5 sources
-> - **Significance**: LISA design sensitivity
-> - **Instrument**: Laser Interferometer Space Antenna (LISA)
-> - **Timeline**: Target 2037
-> - **Falsification**: If LISA observes 10+ high-z mergers with NO frequency-dependent dispersion at design sensitivity, prediction is falsified
+> **Prediction 2: Gravitational Wave Dispersion** (THEORETICAL ONLY)
+> - **What**: Frequency-dependent speed variance at Δv/c ~ 10⁻²³
+> - **Required Sensitivity**: 10⁻²³ (lattice-scale effects)
+> - **Current Best**: LIGO/Virgo at 10⁻¹⁵ (8 orders too insensitive)
+> - **LISA (2037)**: Will reach ~10⁻¹⁷ (still 6 orders too insensitive)
+> - **Timeline**: Beyond foreseeable technology (post-2050 at earliest)
+> - **Status**: **NOT COUNTED IN FALSIFICATION** - kept for theoretical completeness only
+> - **Why Theoretical**: No planned experiment will reach required sensitivity by 2040
 >
-> **Prediction 3: UHECR Direction Dependence**
-> - **What**: Direction-dependent shifts in GZK cut-off
-> - **Threshold**: Above 10²⁰ eV
+> **Prediction 3: UHECR Discrete Rotational Symmetry Breaking**
+> - **What**: Cubic, hexagonal, or discrete angular patterns in UHECR arrival directions (not smooth dipole/quadrupole)
+> - **Energy Range**: E > 5 × 10¹⁹ eV
 > - **Significance**: ≥5σ
-> - **Instrument**: Cherenkov Telescope Array (CTA) or successors
-> - **Timeline**: Before 2040
-> - **Falsification**: If CTA observes 1000+ UHECR events with NO direction dependence at ≥5σ, prediction is falsified
+> - **Instruments**: AugerPrime (Pierre Auger upgrade, Argentina), TAx4 (Telescope Array expansion, Utah)
+> - **NOT**: CTA (Cherenkov Telescope Array detects gamma rays, not cosmic rays)
+> - **Timeline**: 2040 with >100,000 events
+> - **Falsification**: If AugerPrime/TAx4 observe >100k events with ONLY dipole/quadrupole (no discrete patterns) at ≥5σ, prediction falsified
+> - **Current Status**: 6.8σ dipole detected (smooth, not discrete) - mild evidence against at current sensitivity
 >
 > **AI Alignment Track Prediction (with Falsification Condition)**:
 >
@@ -705,11 +709,12 @@ CONVERGENCE:
 >
 > We commit NOW to the following Bayesian updating thresholds (stated before tests complete):
 >
-> **Physics Track** (out of 3 predictions):
-> - **0/3 success**: Computational lattice falsified. Fall back to generic theism.
-> - **1/3 success**: Suggestive but inconclusive. Modest Bayesian update (~5-10% credence in lattice).
-> - **2/3 success**: Moderate evidence. Substantial Bayesian update (~20-40% credence in lattice).
-> - **3/3 success**: Strong evidence. Major Bayesian update (~60-80% credence in lattice).
+> **Physics Track** (2 testable predictions: CMB + UHECR; GW theoretical only):
+> - **0/2 success**: Computational lattice falsified at observable scales. (Example credence: <5%)
+> - **1/2 success**: Suggestive but inconclusive. Modest Bayesian update. (Example credence: ~20-30%)
+> - **2/2 success**: Strong convergent evidence. Substantial Bayesian update. (Example credence: ~45-60%)
+>
+> **Note**: GW dispersion NOT included in this count (beyond detection limits)
 >
 > **AI Alignment Track**:
 > - **Null result** (no difference): Moral training prediction falsified.
