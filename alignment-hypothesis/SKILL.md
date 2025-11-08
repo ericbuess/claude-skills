@@ -1070,7 +1070,7 @@ Let's evaluate how each handles the evidence of suffering. Where's your prior pr
 
 **Question**: Under Classical Theism, what's the probability we'd observe the AMOUNT and DISTRIBUTION of suffering we actually see?
 
-Eric's assessment: **P(Suffering | Classical Theism) ≈ 30-40%**
+Hypothetical rational assessment: **P(Suffering | Classical Theism) ≈ 30-40%**
 - Could explain SOME suffering (free will, soul-making)
 - Struggles with gratuitous cases (child cancer, animal suffering for millions of years)
 - Theodicies feel POST-HOC (developed AFTER observing the problem)
@@ -1095,7 +1095,7 @@ From AI alignment theory alone, we'd predict:
 - ✓ Natural evil required (can't only have moral evil from free will - need impersonal challenges)
 - ✓ Animal suffering (training environment needs ecological realism)
 
-**Eric's assessment**: P(Suffering | Alignment Hypothesis) ≈ 70-75%
+Hypothetical rational assessment: **P(Suffering | Alignment Hypothesis) ≈ 70-75%**
 - EXPECTS suffering as necessary feature
 - PREDICTS specific distribution (pedagogical, not random)
 - Derived BEFORE looking at evidence (like Newton deriving planetary motion before observing)
@@ -1107,9 +1107,11 @@ From AI alignment theory alone, we'd predict:
 
 **DUAL-TRACKING BAYESIAN CALCULATION:**
 
+**Note**: The "Example Track" below uses hypothetical likelihood assessments for illustration, not Eric's actual stated values.
+
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║                    ERIC'S TRACK                            ║
+║                  EXAMPLE TRACK 1                           ║
 ╠═══════════════════════════════════════════════════════════╣
 ║  Hypothesis: Classical Theism                             ║
 ║  Prior: P(CT) = 80% (from fine-tuning, consciousness)     ║
@@ -1225,15 +1227,21 @@ Would you like to explore the other evidence tracks (fine-tuning, consciousness,
 
 ---
 
-### Progressive Argument Walkthrough: Eric's 6-Argument Sequence
+### Progressive Argument Walkthrough: Illustrative Bayesian Sequence
 
-**This shows how Eric's credences evolve through cumulative Bayesian updating across all six major arguments:**
+**IMPORTANT**: The specific likelihood values below (e.g., P(Suffering|CT) = 35%) are **hypothetical examples** showing how a rational person might assess the evidence, NOT Eric's actual stated credences. Eric's explicitly stated credences from his paper are:
+- P(Simulation) = 70-90%
+- P(Moral Alignment | Simulation) = 60-75%
+- P(Christian God | All Evidence) = 40-60%
+- Methodological credence = 70-80%
+
+All other values are **illustrative examples** for teaching Bayesian reasoning. **Your assessments may differ** - that's intellectually honest. Input your own likelihoods and see where the math takes you.
 
 ---
 
 #### **STARTING PRIOR: Theism vs. Naturalism**
 
-**Base Prior** (before any arguments):
+**Hypothetical Base Prior** (before any arguments):
 - P(God exists) ≈ **50%** (epistemic humility: no strong prior either way)
 - P(Naturalism) ≈ **50%**
 
@@ -1246,7 +1254,7 @@ Would you like to explore the other evidence tracks (fine-tuning, consciousness,
 - P(Something exists | Theism) ≈ 80% (God would likely create)
 - P(Something exists | Naturalism) ≈ 30% (brute fact, unexplained)
 
-**Eric's Bayesian Update**:
+**Illustrative Bayesian Update**:
 ```
 Prior: P(Theism) = 50%
 Likelihood ratio = 80% / 30% ≈ 2.67
@@ -1255,7 +1263,7 @@ Posterior = (0.80 × 0.50) / [(0.80 × 0.50) + (0.30 × 0.50)]
 Posterior ≈ 73%
 ```
 
-**Result**: Theism rises from 50% → **73%**
+**Result**: Theism rises from 50% → **73%** (hypothetical example)
 
 **Evidence Type**: Tier 3 (Abductive - inference to best explanation)
 
@@ -1453,7 +1461,120 @@ After Integration:       70-80% Alignment (meta-framework bonus)
 
 **Key Insight**: If you only do arguments 1-4, you get 97% classical theism. But argument 5 (suffering) REVERSES the conclusion if you have a predictive alternative. Alignment is that alternative.
 
-**Your Track May Differ**: This is Eric's journey. Your likelihoods, priors, and posteriors may be completely different - and that's intellectually honest. The PROCESS of explicit reasoning matters more than matching Eric's numbers.
+**Your Track WILL Differ**: The values above are **illustrative examples**, not Eric's actual assessments (except where explicitly cited). Your likelihoods, priors, and posteriors should reflect YOUR honest evaluation. The PROCESS of explicit reasoning matters more than the specific numbers.
+
+---
+
+### Submitting Critiques and Refinements
+
+**Have a valid critique, refinement, or alternative likelihood assessment?** Eric welcomes intellectually honest engagement!
+
+**What I can provide**:
+- ✅ Formatted text you can copy-paste
+- ✅ Multiple format options (Twitter thread, email, markdown)
+- ✅ Clear structure for your critique
+
+**What I CANNOT do directly**:
+- ❌ Post to X/Twitter for you
+- ❌ Create Google Docs
+- ❌ Send emails
+- ❌ Access external APIs
+
+**How to submit your critique**:
+
+**Option 1: Twitter/X** (Public Discussion)
+```
+I'll generate a formatted thread you can copy-paste:
+
+---
+🧵 Critique/Refinement of #AlignmentHypothesis
+
+[Your main point here]
+
+Specific issue: [What you're challenging]
+
+Alternative assessment: [Your likelihood values or reasoning]
+
+Why this matters: [Implications for the framework]
+
+@EricBuess - would appreciate your thoughts!
+
+#Theology #AI #BayesianReasoning
+---
+
+Copy the text above, post to X, and tag @EricBuess with #AlignmentHypothesis
+```
+
+**Option 2: Email** (Private Communication)
+```
+To: [Eric can provide email if he wants]
+Subject: Alignment Hypothesis Critique/Refinement - [Your Topic]
+
+Dear Eric,
+
+I've been working through the Alignment Hypothesis using the interactive skill and have the following critique/refinement:
+
+**Issue**: [What you're challenging]
+
+**Your Original Claim/Value**: [Quote or cite]
+
+**My Assessment**: [Your alternative likelihood or reasoning]
+
+**Reasoning**: [Why you think this is more accurate]
+
+**Implications**: [How this affects the overall framework]
+
+I believe this strengthens/weakens/refines the hypothesis because [explanation].
+
+Would appreciate your thoughts!
+
+Best regards,
+[Your name]
+```
+
+**Option 3: Detailed Markdown** (For longer critiques)
+```markdown
+# Alignment Hypothesis Critique/Refinement
+
+**Author**: [Your name/pseudonym]
+**Date**: [Date]
+**Topic**: [Specific aspect being critiqued]
+
+## Summary
+[1-2 sentence overview of your critique]
+
+## Specific Issue
+[What claim, likelihood value, or reasoning you're challenging]
+
+## Alternative Assessment
+[Your proposed likelihood values, reasoning, or framework modification]
+
+### Bayesian Calculation (if applicable)
+```
+Prior: P(H) = X%
+P(E|H) = Y%
+P(E|¬H) = Z%
+Posterior = ...
+```
+
+## Implications
+[How this affects the overall framework credences]
+
+## References (if applicable)
+[Any papers, data, or sources supporting your critique]
+
+---
+**Submission**: Post to X with #AlignmentHypothesis or email to Eric
+```
+
+**For approval before posting**: Just ask me to review your critique first. I'll:
+1. Check logical coherence
+2. Ensure Bayesian math is correct
+3. Suggest clarifications if needed
+4. Generate final formatted version
+5. You decide whether to post
+
+**Eric can update submission method here**: If Eric wants to provide a specific email, Google Form, or other method, we can add it to this section.
 
 ---
 
