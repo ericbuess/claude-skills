@@ -14,7 +14,7 @@ These ranges show how a rational person *might* assess the evidence using Bayesi
 - **P(We're in some kind of information-dependent reality)**: 50-85% (Bostrom's argument + multiverse → simulation)
 - **P(Reality designed for moral development specifically | information-dependent)**: 40-70% (evidence discriminates purpose)
 - **P(Christian theological framework specifically | moral design)**: 25-55% (one specific framework among many possible)
-- **Methodological Assessment**: 60-75% (what Bayesian framework yields when treating as predictive meta-framework, before personal discounts)
+- **Methodological Assessment**: 60-75% (what Bayesian framework yields when treating as predictive meta-framework, as one example of rational assessment)
 
 ---
 

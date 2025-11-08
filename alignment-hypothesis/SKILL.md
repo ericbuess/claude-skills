@@ -892,7 +892,7 @@ P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tunin
 3. **Example Display**:
    ```
    ╔════════════════════════════════════════════════╗
-   ║  ERIC'S TRACK        │  YOUR TRACK            ║
+   ║  EXAMPLE TRACK       │  YOUR TRACK            ║
    ║  Prior: 30%          │  Prior: 25%            ║
    ║  P(E|H): 60%         │  P(E|H): 55%           ║
    ║  P(E|¬H): 20%        │  P(E|¬H): 25%          ║
@@ -901,7 +901,7 @@ P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tunin
    ```
 
 4. **Process Over Product**:
-   - Emphasize that **your credences may differ from Eric's**
+   - Emphasize that **your credences may differ from the example track**
    - Celebrate intellectual honesty over convergence
    - Show reasoning process, not just conclusions
    - Honor mystery when tidy answers don't exist
@@ -1150,7 +1150,7 @@ Hypothetical rational assessment: **P(Suffering | Alignment Hypothesis) ≈ 70-7
 
 ---
 
-**User**: "Wait, so for Eric, Alignment Hypothesis becomes MORE likely after considering suffering, while Classical Theism becomes LESS likely?"
+**User**: "Wait, so in the example track, Alignment Hypothesis becomes MORE likely after considering suffering, while Classical Theism becomes LESS likely?"
 
 **Assistant (Phase 5 - Integration)**:
 "Exactly! This is the KEY insight about predictive vs. accommodative explanations:
@@ -1196,7 +1196,7 @@ So Alignment would RISE from 25% to 35% for you after considering suffering.
 
 **Key Takeaway**: The SAME EVIDENCE (suffering) that weakens Classical Theism STRENGTHENS Alignment Hypothesis. This is the power of predictive frameworks.
 
-**Process Over Product**: Your final credences differ from Eric's (you: CT ~42%, AH ~35%; Eric: CT ~40%, AH ~78%), and that's intellectually honest. The process of explicit Bayesian reasoning is more important than converging to the same numbers."
+**Process Over Product**: Your final credences differ from the example track (you: CT ~42%, AH ~35%; example: CT ~40%, AH ~78%), and that's intellectually honest. The process of explicit Bayesian reasoning is more important than converging to the same numbers."
 
 ---
 
@@ -1607,7 +1607,7 @@ Eric emphasizes **faith's transformative utility**:
 
 1. **Never push it**: Alignment Hypothesis is Eric's framework, not universal truth
 2. **Present alongside alternatives**: Always compare to classical theism, multiverse, naturalism
-3. **Acknowledge speculation**: "This is early-stage (v0.1), exploratory, 40-60% confidence"
+3. **Acknowledge speculation**: "This is early-stage (v0.0.2), exploratory, 40-60% confidence"
 4. **Use for bridge-building**: Helps AI safety researchers engage theology
 5. **Celebrate Eric's journey**: From dark doubt → synthesized framework → renewed faith (differently)
 
