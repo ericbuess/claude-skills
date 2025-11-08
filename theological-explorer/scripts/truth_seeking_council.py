@@ -176,27 +176,92 @@ class ScientificIntegrator(Agent):
         """
 
 
+class SurpriseFactorAnalyst(Agent):
+    """
+    Distinguishes predictive from accommodative explanations.
+    Identifies meta-frameworks that unify multiple pieces of evidence.
+
+    Key Questions:
+    - Would hypothesis have predicted evidence before observing it?
+    - Does hypothesis integrate multiple pieces of evidence?
+    - Is this a meta-framework or single-issue explanation?
+
+    Scoring (Predictive Power):
+    - 5: Strongly Predicted (would have confidently expected)
+    - 4: Weakly Predicted (would have somewhat expected)
+    - 3: Neutral (equally likely under H or ¬H)
+    - 2: Accommodated (explains only after observing)
+    - 1: Ad-hoc (requires significant modification)
+
+    Integration Assessment:
+    - Count independent pieces of evidence integrated
+    - Identify meta-frameworks (single theory → multiple predictions)
+    - Compare to multi-hypothesis collections
+    """
+
+    def analyze(self, question: str, context: Dict[str, Any]) -> str:
+        return """
+        PREDICTIVE POWER ASSESSMENT:
+
+        For each piece of evidence:
+        1. Would hypothesis have predicted this BEFORE observing? (Score 1-5)
+        2. Compare prediction vs. accommodation across hypotheses
+        3. Highlight: "Prediction > Accommodation" principle
+
+        INTEGRATION ASSESSMENT:
+
+        1. How many independent pieces of evidence integrated?
+        2. Single framework or multiple sub-hypotheses?
+        3. Meta-framework identification (e.g., Alignment integrates 5/5)
+
+        ANALOGIES:
+        - Ptolemaic epicycles (accommodative) vs. Newtonian gravity (predictive)
+        - Pre-Darwin biology (multiple explanations) vs. natural selection (unified)
+        - Overfitting (explains anything) vs. good model (predicts unseen data)
+
+        OUTPUT: Predictive power scores, integration analysis, meta-framework recognition
+        """
+
+
 class AbductiveSynthesizer(Agent):
     """
     Compares explanatory power of competing hypotheses.
 
-    Criteria (weighted):
+    MODIFIED CRITERIA (weighted based on meta-framework status):
+
+    Standard Weighting:
     - Scope (30%): How much data explained?
     - Precision (20%): Specific predictions?
     - Coherence (20%): Fits with established knowledge?
     - Simplicity (15%): Occam's Razor
     - Fecundity (10%): New insights?
     - Conservatism (5%): Minimal revision?
+
+    Meta-Framework Weighting (when Surprise Factor Analyst identifies meta-framework):
+    - Predictive Power (35%): From Surprise Factor assessment
+    - Integration (25%): From Surprise Factor assessment
+    - Scope (20%): Traditional criterion
+    - Coherence (10%): Traditional criterion
+    - Simplicity (5%): REDUCED (complexity penalty matters less for unified frameworks)
+    - Fecundity (5%): Traditional criterion
+
+    IMPORTANT: Weighting changes based on whether hypothesis is meta-framework.
     """
 
     def analyze(self, question: str, context: Dict[str, Any]) -> str:
         return """
         EXPLANATORY POWER:
-        - Score each hypothesis on 6 criteria
-        - Weighted average
-        - Rank explanations
 
-        OUTPUT: Best explanation(s) identified
+        Step 1: Check if Surprise Factor Analyst identified meta-frameworks
+        Step 2: Apply appropriate weighting:
+            - If meta-framework: Use enhanced weights (predictive 35%, integration 25%)
+            - If standard hypothesis: Use traditional weights
+
+        Step 3: Score each hypothesis on relevant criteria
+        Step 4: Calculate weighted average
+        Step 5: Rank explanations
+
+        OUTPUT: Best explanation(s) identified with proper meta-framework recognition
         """
 
 
@@ -300,6 +365,7 @@ class TruthSeekingCouncil:
             base_agents.extend([
                 ComparativeTheologian("Comparative", "Traditions"),
                 ScientificIntegrator("Scientific", "Physics/Consciousness"),
+                SurpriseFactorAnalyst("Surprise Factor", "Predictive Power"),  # NEW AGENT
                 AbductiveSynthesizer("Abductive", "Explanatory Power"),
                 Skeptic("Skeptic", "Challenge All")
             ])
