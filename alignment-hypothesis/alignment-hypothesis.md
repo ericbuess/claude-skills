@@ -1,4 +1,5 @@
-# Are We a Solution to the AI-Alignment Problem? A Framework for Synthesizing Physics, Theology, and the Future of Artificial Intelligence
+# The Alignment Hypothesis: Are We a Solution to the AI-Alignment Problem?
+## A Framework for Synthesizing Physics, Theology, and the Future of Artificial Intelligence
 
 **Author: Eric Buess** | [@EricBuess](https://x.com/EricBuess) | [ericbuess.ai](https://ericbuess.ai) | [alignmenthypothesis.com](https://alignmenthypothesis.com)
 
@@ -16,9 +17,15 @@
 
 ## ABSTRACT
 
-This paper explores the design requirements for a quarantined "moral sandbox" capable of producing freely aligned agents, using the modern AI-alignment problem as a design brief. From that brief I derive the features a safe, effective training environment must possess and then show a striking—though only suggestive—correspondence between those requirements and the fundamental properties of our cosmos. The fine-tuned, probabilistic, and ethically consequential structure of the universe looks, on this reading, like an engineered crucible for virtue. Integrating computer-science alignment literature, digital-physics proposals, and classical Christian theology, I advance (i) a layer-by-layer abductive case, (ii) a set of risky, time-bound predictions, and (iii) an ethical mirror for our own coming role as creators of synthetic minds. The aim is accessibility for lay readers while preserving full technical depth in endnotes and appendices. Heavy mathematics and citations are footnoted to keep the main narrative clear.
+**The Alignment Hypothesis** is a predictive meta-framework showing how both theism and naturalism converge on simulation theory, and how AI alignment research reveals our universe as a moral training environment designed by aligned creators solving the AI alignment problem at cosmic scale.
 
-**KEY WORDS**: AI alignment • simulation hypothesis • theodicy • quantum mechanics • fine-tuning • virtue formation • philosophy of religion • digital physics
+This paper explores the design requirements for a quarantined "moral sandbox" capable of producing freely aligned agents, using the modern AI-alignment problem as a design brief. From that brief I derive the features a safe, effective training environment must possess and then show a striking—though only suggestive—correspondence between those requirements and the fundamental properties of our cosmos. The fine-tuned, probabilistic, and ethically consequential structure of the universe looks, on this reading, like an engineered crucible for virtue.
+
+Integrating computer-science alignment literature, digital-physics proposals, and classical Christian theology, I advance (i) a layer-by-layer abductive case, (ii) a set of risky, time-bound predictions with specific falsification conditions, and (iii) an ethical mirror for our own coming role as creators of synthetic minds. The framework emphasizes **predictive** explanations (deriving expectations before observing evidence) over **accommodative** explanations (retrofitting theories to fit observations), intellectual humility about speculative physics, and process over product—your credences may differ from mine, and that's intellectually honest.
+
+The aim is accessibility for lay readers while preserving full technical depth in endnotes and appendices. Heavy mathematics and citations are footnoted to keep the main narrative clear.
+
+**KEY WORDS**: the Alignment Hypothesis • AI alignment • simulation hypothesis • theodicy • quantum mechanics • fine-tuning • virtue formation • philosophy of religion • digital physics • Bayesian reasoning • predictive vs. accommodative frameworks
 
 ---
 

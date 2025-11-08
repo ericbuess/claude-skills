@@ -844,9 +844,11 @@ P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tunin
 
 **The Alignment Hypothesis** (Eric Buess, 2024) proposes that our universe is a **moral training environment** designed to solve the AI alignment problem at a cosmic scale—producing beings who freely choose goodness after experiencing and overcoming suffering, temptation, and moral complexity.
 
-**Paper**: `/Users/ericbuess/Projects/alignment-universe/main-hypothesis.md`
+**Paper**: `/Users/ericbuess/Projects/claude-skills/alignment-hypothesis/alignment-hypothesis.md` (Enhanced version 1.1 with falsifiability improvements)
 
-**Status**: Early version (v0.1). This skill helps Eric sharpen and test the idea through dialogue.
+**Additional Reference**: `references/alignment-hypothesis.md` (Comprehensive theological integration)
+
+**Website**: [alignmenthypothesis.com](https://alignmenthypothesis.com)
 
 ### Positioning
 
@@ -1629,7 +1631,7 @@ Detailed documentation loaded into context as needed. See `references/` director
 4. **worldview-landscape.md**: Theism varieties, atheism varieties, steel-man each
 5. **fine-tuning-analysis.md**: Physical constants, Bayesian comparison, multiverse response
 6. **problem-of-evil.md**: Logical vs. evidential, theodicies, Alignment Hypothesis response
-7. **alignment-hypothesis.md**: Complete explanation, strengths/weaknesses, integration strategy
+7. **references/alignment-hypothesis.md**: Complete theological explanation with computational Christology, sim2real transfer, relational theology, and comprehensive integration
 8. **consciousness-hard-problem.md**: IIT, GWT, Orch OR, panpsychism, theistic vs. naturalistic
 9. **historical-jesus.md**: Historical method, minimal facts, resurrection assessment
 10. **cognitive-biases.md**: Catalog with confidence discounts, Two Filters Framework
