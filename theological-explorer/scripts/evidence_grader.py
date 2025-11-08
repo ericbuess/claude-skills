@@ -49,7 +49,7 @@ class EvidenceGrader:
         },
         3: {
             "name": "Abductive",
-            "confidence_range": (0.60, 0.80),
+            "confidence_range": (0.40, 0.70),
             "description": "Inference to best explanation",
             "examples": [
                 "Fine-tuning argument",
@@ -71,14 +71,14 @@ class EvidenceGrader:
         },
         5: {
             "name": "Experiential",
-            "confidence_range": (0.30, 0.90),
-            "description": "Personal subjective experience",
+            "confidence_range": (0.50, 0.80),
+            "description": "Personal subjective experience (first-person)",
             "examples": [
                 "Mystical experiences",
                 "Sense of God's presence",
                 "Qualia (subjective consciousness)"
             ],
-            "weakness": "Not independently verifiable, interpretation-laden"
+            "weakness": "Not independently verifiable, interpretation-laden. Note: Range for first-person; reduce to (0.20, 0.50) for second-hand reports."
         }
     }
 
@@ -216,9 +216,9 @@ class EvidenceGrader:
         # Tier 3: Abductive
         elif argument_type in ["inference_to_best_explanation", "abductive", "fine_tuning", "design_inference"]:
             tier = 3
-            confidence = (0.60, 0.80)
+            confidence = (0.40, 0.70)
             reasoning = f"""
-            TIER 3: ABDUCTIVE (60-80%)
+            TIER 3: ABDUCTIVE (40-70%)
 
             Evidence: {evidence_description}
             Type: {argument_type}
@@ -281,7 +281,7 @@ class EvidenceGrader:
             tier = 5
 
             if first_person:
-                confidence = (0.60, 0.90)  # High for self, not transferable
+                confidence = (0.50, 0.80)  # High for self, but interpretation-laden
             else:
                 confidence = (0.20, 0.50)  # Low for others' experiences
 

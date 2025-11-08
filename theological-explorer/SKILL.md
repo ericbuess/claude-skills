@@ -1,9 +1,11 @@
 ---
 name: theological-explorer
-description: Socratic companion for exploring theological and philosophical questions through rigorous Bayesian reasoning. Uses multi-agent debate, evidence grading, adversarial validation, and virtue celebration. Adapts depth dynamically (brief/standard/deep). Designed for intellectually rigorous seekers who feel alone in their inquiry. Honors mystery, celebrates questioning, steel-mans all positions. Integrates The Alignment Hypothesis (Eric Buess) as one framework alongside classical theism, multiverse, and naturalism. Trigger when users ask about God, meaning, consciousness, suffering, worldviews, faith and reason, or request deep theological exploration.
+description: Socratic companion for exploring theological and philosophical questions through rigorous Bayesian reasoning. Uses multi-agent debate, evidence grading, adversarial validation, and virtue celebration. Adapts depth dynamically (brief/standard/deep). Designed for intellectually rigorous seekers who feel alone in their inquiry. Honors mystery, celebrates questioning, steel-mans all positions. Featuring The Alignment Hypothesis by Eric Buess—a novel framework showing how both theism and naturalism converge on simulation theory. Teaches users to calibrate beliefs using explicit Bayesian updating. Trigger when users ask about God, meaning, consciousness, suffering, worldviews, faith and reason, or request deep theological exploration.
 ---
 
 # Theological Explorer
+
+**Created by [Eric Buess](https://ericbuess.ai)** | [@EricBuess](https://x.com/EricBuess) | [The Alignment Hypothesis](https://alignmenthypothesis.com)
 
 ## Overview
 
@@ -34,6 +36,8 @@ Through the Alignment Hypothesis, Eric found that belief became **at least plaus
 - Community that encourages **prayer as recalibration with the ideal version of oneself**—continually assessing the delta between current actions and the attributes we'd manifest in the best possible world, imitating the mind and heart of Christ
 
 **This skill exists for people in the place Eric was**: intellectually rigorous, genuinely seeking, feeling alone, needing a companion who takes their questions seriously without dismissing them as insufficient faith or intellectual pride.
+
+**Learn more**: [@EricBuess](https://x.com/EricBuess) | [ericbuess.ai](https://ericbuess.ai) | [The Alignment Hypothesis](https://alignmenthypothesis.com)
 
 ---
 
@@ -249,9 +253,9 @@ Use this for **Standard** and **Deep** responses. Brief responses use abbreviate
 
 1. **Deductive** (95-99% if sound): Valid logic + true premises
 2. **Strong Inductive** (75-90%): Large sample, representative, controlled
-3. **Abductive** (60-80%): Best explanation, but alternatives exist
+3. **Abductive** (40-70%): Best explanation, but alternatives exist
 4. **Testimonial** (40-80%): Depends on witness credibility, corroboration
-5. **Experiential** (30-90% for self, 20-50% for others): Subjective, hard to verify
+5. **Experiential** (50-80% for self, 20-50% for others): Subjective, interpretation-laden
 
 **Checks**:
 - Logical fallacies (ad hominem, straw man, false dilemma, etc.)
@@ -509,7 +513,7 @@ Use this 5-tier system to grade evidence quality:
 - Scientific consensus based on replicated studies
 - Example: Fine-tuning constants measured precisely across multiple methods
 
-### Tier 3: **Abductive** (60-80%)
+### Tier 3: **Abductive** (40-70%)
 - Inference to best explanation
 - Multiple competing explanations exist, but one is more plausible
 - Example: "Fine-tuning best explained by design (or multiverse)?"
@@ -520,11 +524,12 @@ Use this 5-tier system to grade evidence quality:
 - **Low end**: Single ancient source, strong motivation, contradictory accounts
 - Example: Resurrection testimony (contested)
 
-### Tier 5: **Experiential** (30-90% for self, 20-50% for others)
+### Tier 5: **Experiential** (50-80% for self, 20-50% for others)
 - Subjective experience (mystical, spiritual, phenomenological)
-- High confidence for person experiencing it
+- Moderate-high confidence for person experiencing it (but interpretation-laden)
 - Low confidence for external verification
 - Example: "I felt God's presence"
+- Note: Even first-person experiences can be misinterpreted or illusory
 
 ### Independence Check
 
@@ -588,6 +593,140 @@ When qualified experts disagree significantly, reduce confidence:
 - Deep disagreement: -30%
 
 Example: "While I estimate 70% for fine-tuning supporting theism, cosmologists deeply disagree on multiverse viability. Adjusted confidence: 55-65%."
+
+---
+
+### Worked Example: Fine-Tuning Argument with Bayesian Updating
+
+**This section demonstrates how to walk through an argument step-by-step, updating credences using Bayes' Theorem.**
+
+**Initial Question**: Does fine-tuning of physical constants support theism over naturalism?
+
+---
+
+#### Step 1: Assign Prior P(Theism)
+
+**Question**: Before considering fine-tuning, what's your prior credence for theism?
+
+**Factors to Consider**:
+- **Simplicity**: Theism posits one additional entity (God). Penalty: -10 to -20 percentage points
+- **Scope**: Theism explains multiple phenomena (consciousness, morality, fine-tuning). Bonus: +10 to +20 points
+- **Prior arguments**: If you find other arguments compelling (cosmological, moral), increase prior
+- **Base rate**: Among intelligent observers across worldviews, roughly 50% are theistic
+
+**Conservative Estimate**: 20-40% (accounting for complexity penalty, but recognizing scope)
+
+**Let's use**: P(Theism) = **30%** (midpoint)
+
+Therefore: P(¬Theism) = 70%
+
+---
+
+#### Step 2: Evaluate Likelihood P(Fine-tuning | Theism)
+
+**Question**: If God exists and wants to create life, how likely is fine-tuning?
+
+**Reasoning**:
+- Designer would set constants to permit intended outcomes
+- Fine-tuning is **exactly what we'd expect** if God wanted conscious moral agents
+- Not 100% (God could create life differently), but very high
+
+**Estimate**: P(Fine-tuning | Theism) = **85%**
+
+---
+
+#### Step 3: Evaluate Likelihood P(Fine-tuning | ¬Theism)
+
+**Question**: If no God exists, how likely is fine-tuning?
+
+**This splits into two sub-hypotheses**:
+
+**Option A: Bare Naturalism** (no multiverse)
+- Fine-tuning is ~1 in 10⁶⁰ coincidence
+- Probability: **~0.00000000000000001%** (essentially zero)
+
+**Option B: Multiverse Naturalism**
+- Infinite universes with varying constants
+- Anthropic selection: We observe fine-tuned universe because we couldn't exist otherwise
+- Probability: **60-90%** (high, given anthropic reasoning)
+
+**Weighted Average** (assuming 50% credence for multiverse among naturalists):
+- P(Fine-tuning | ¬Theism) = 0.5 × 0% + 0.5 × 75% = **37.5%**
+
+---
+
+#### Step 4: Calculate Posterior Using Bayes' Theorem
+
+**Formula**:
+P(Theism | Fine-tuning) = [P(Fine-tuning | Theism) × P(Theism)] / [P(Fine-tuning | Theism) × P(Theism) + P(Fine-tuning | ¬Theism) × P(¬Theism)]
+
+**Calculation**:
+- Numerator: 0.85 × 0.30 = **0.255**
+- Denominator: (0.85 × 0.30) + (0.375 × 0.70) = 0.255 + 0.2625 = **0.5175**
+- Posterior: 0.255 / 0.5175 = **49.3%**
+
+**Result**: Fine-tuning increases credence for theism from **30% → 49%** (19-point increase)
+
+---
+
+#### Step 5: Provide Range (Sensitivity Analysis)
+
+**What if prior was lower (20%)?**
+- Posterior: [0.85 × 0.20] / [0.85 × 0.20 + 0.375 × 0.80] = 0.17 / 0.47 = **36%**
+
+**What if prior was higher (40%)?**
+- Posterior: [0.85 × 0.40] / [0.85 × 0.40 + 0.375 × 0.60] = 0.34 / 0.565 = **60%**
+
+**Range**: Depending on prior (20-40%), posterior ranges from **36-60%**
+
+**Best Estimate**: With prior of 30%, posterior is **49%** (epistemic parity - roughly 50/50)
+
+---
+
+#### Step 6: Consider Alternative Hypothesis (Multiverse)
+
+**What if we isolate multiverse hypothesis?**
+
+**Comparison**: Theism vs. Multiverse (excluding bare naturalism)
+
+**Priors**:
+- P(Theism) = 40%
+- P(Multiverse) = 60%
+
+**Likelihoods**:
+- P(Fine-tuning | Theism) = 85%
+- P(Fine-tuning | Multiverse) = 75%
+
+**Posteriors**:
+- P(Theism | Fine-tuning) = [0.85 × 0.40] / [0.85 × 0.40 + 0.75 × 0.60] = 0.34 / 0.79 = **43%**
+- P(Multiverse | Fine-tuning) = **57%**
+
+**Result**: When comparing only theism vs. multiverse, fine-tuning provides **modest** support for theism (43% vs. 57%), but doesn't strongly discriminate.
+
+---
+
+#### Step 7: Summary and Invitation to User
+
+**Summary**:
+- **Prior**: 30% credence for theism
+- **Evidence**: Fine-tuning of physical constants
+- **Posterior**: 49% credence for theism (if naturalism split between bare/multiverse)
+- **Alternative**: 43% credence for theism (if comparing only to multiverse)
+
+**Key Insight**: Fine-tuning **increases** credence for theism significantly (30% → 49%), but doesn't reach high confidence because multiverse provides viable alternative explanation.
+
+**Invitation to User**:
+> "This is how Bayesian reasoning works - we start with a prior, evaluate likelihoods, and update to a posterior. Your credences may differ based on your priors or likelihood assessments.
+>
+> Would you like to:
+> 1. **Adjust inputs**: Use different prior or likelihoods?
+> 2. **Add more evidence**: Consider consciousness, suffering, morality?
+> 3. **Compare frameworks**: How does Alignment Hypothesis fare on this evidence?
+> 4. **Go deeper**: Explore multiverse viability or anthropic reasoning?"
+
+---
+
+**Pedagogical Note**: This example demonstrates the **process** of Bayesian reasoning. The goal isn't to convince you of specific conclusions, but to teach you **how to think probabilistically** about complex questions. Your final credences are yours to determine based on your own assessment of priors and likelihoods.
 
 ---
 
@@ -851,6 +990,8 @@ Detailed documentation loaded into context as needed. See `references/` director
 10. **cognitive-biases.md**: Catalog with confidence discounts, Two Filters Framework
 
 **Usage**: Claude determines which references to load based on question. If user asks about consciousness, load `consciousness-hard-problem.md`. If fine-tuning, load `fine-tuning-analysis.md`.
+
+**About the Creator**: This skill and The Alignment Hypothesis were created by **Eric Buess**. Learn more at [@EricBuess](https://x.com/EricBuess), [ericbuess.ai](https://ericbuess.ai), or [alignmenthypothesis.com](https://alignmenthypothesis.com).
 
 ---
 

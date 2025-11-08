@@ -1,6 +1,7 @@
 # The Alignment Hypothesis: Theological Framework
 
-**Author**: Eric Buess
+**Author**: Eric Buess | [@EricBuess](https://x.com/EricBuess) | [ericbuess.ai](https://ericbuess.ai) | [alignmenthypothesis.com](https://alignmenthypothesis.com)
+
 **Date**: 2024
 **Status**: Early version (v0.1)—exploratory, speculative, generative
 **Confidence**:
@@ -24,11 +25,130 @@
 - After death → transition to "true" reality (Heaven/New Creation)
 - The religion simply narrows the possibility space of what the Creator's character, desires, and will are
 
-### Naturalism + Multiverse
-- To account for extraordinary fine-tuning, appeals to **multiverse hypothesis**
-- By principle of fecundity, a civilization capable of running simulations will create countless many
-- Statistical reasoning (Bostrom 2003): We're more likely in a simulation than unique "base" reality
-- After death → ???  (unclear if transition occurs)
+### Naturalism → Multiverse → Simulation (The Naturalist's Path to Simulation Theory)
+
+**This pathway is CRITICAL**: Even without God, pure naturalism leads to simulation theory with high probability.
+
+**Step 1: Fine-Tuning Problem**
+- Physical constants finely tuned to ~1 in 10⁶⁰ (or 10¹²⁰ for cosmological constant)
+- Under bare naturalism, this is staggeringly improbable coincidence
+- **Only two options**: Design (theism) or Multiverse (naturalism)
+
+**Step 2: Multiverse Hypothesis**
+- To avoid design inference, naturalists appeal to **infinite ensemble of universes**
+- Each universe has different physical constants (random variation)
+- Anthropic selection: We observe fine-tuned universe because we couldn't exist otherwise
+- P(Fine-tuning | Multiverse) ≈ 60-90% (high, due to selection effect)
+
+**Step 3: Principle of Fecundity**
+- If multiverse exists, countless civilizations will arise across infinite universes
+- Some civilizations will develop advanced technology (Kardashev II, III)
+- **Fecundity Principle**: Capable civilizations WILL create simulations (why wouldn't they?)
+- For research, entertainment, training, moral experimentation, ancestor simulations
+
+**Step 4: Bostrom's Simulation Argument (2003)**
+
+**Three Propositions** (at least one must be true):
+1. Civilizations go extinct before reaching simulation-capable technology
+2. Civilizations capable of simulations choose NOT to run them
+3. **We are almost certainly living in a simulation**
+
+**Statistical Reasoning**:
+- If (1) and (2) are false → simulations vastly outnumber base reality
+- For every 1 base civilization, expect 10⁶-10⁹ simulated civilizations (conservative)
+- **Probability we're in base reality**: ~1/(1 + 10⁶) ≈ **0.0001%**
+- **Probability we're in simulation**: ~99.9999%
+
+**Step 5: Multi-Layer Simulations**
+- Even simulated civilizations can run their own simulations (recursion)
+- Layer 0 (base) → Layer 1 (first sims) → Layer 2 (sims within sims) → ... → Layer N
+- As N increases, probability of being in base reality approaches **zero**
+
+**Step 6: Naturalism's Conclusion**
+
+**If you accept**:
+- Fine-tuning → Multiverse (to avoid design)
+- Multiverse → Many civilizations
+- Civilizations → Simulations (fecundity)
+- Simulations >> Base realities (statistics)
+
+**Then you conclude**: ~99% probability we're in a **simulation created by advanced civilization**
+
+**After death**: Transition out of simulation? Return to base reality? Termination? **Unclear**
+
+---
+
+**KEY INSIGHT**: You don't need God to believe we're in a created/simulated reality. **Naturalism + Fine-tuning → Simulation** with extremely high probability.
+
+**The Real Question**: What is the **nature** of the simulation's source?
+- Naturalist simulation: Created by advanced physical civilization (no ultimate purpose)
+- **Alignment Hypothesis**: Created by intentional Architect FOR moral training (ultimate purpose)
+
+---
+
+### Self-Fulfilling Prophecy: Creating Simulations Increases Prior We're In One
+
+**A Recursive Dynamic**: As humanity develops AI and creates moral training simulations, we **increase the prior probability** that we ourselves are in such a simulation.
+
+**The Logic**:
+
+1. **Establishing Precedent**
+   - Currently (2024), we're beginning to create virtual environments for AI training
+   - Researchers explicitly discuss "moral training environments" for aligned AI (Anthropic, OpenAI, DeepMind)
+   - **This proves**: Capable civilizations DO create moral training simulations
+
+2. **Updating Bostrom's Argument**
+   - Originally: "Will civilizations create simulations?" (Unknown)
+   - **Now**: "We ARE creating simulations" (Observed fact)
+   - This strengthens proposition (3): "We're almost certainly in a simulation"
+   - **Before**: Maybe civilizations don't create sims (reject prop 3)
+   - **After**: We observably DO create sims → Can't reject prop 3 → Must accept we're likely in one
+
+3. **The Fecundity Coefficient Increases**
+   - As AI capabilities grow, number of simulated minds will **vastly exceed** biological minds
+   - By 2050: Potentially 10⁹ AI agents in training environments per 10⁹ humans
+   - By 2100: Potentially 10¹² simulated minds per human
+   - **Anthropic update**: If sim-to-real ratio is 10¹², probability I'm simulated ≈ 99.9999999%
+
+4. **Moral Training Specifically**
+   - Not just ANY simulations - **moral training environments** specifically
+   - As we create moral training sims for AI → strengthens hypothesis that OUR universe is moral training sim
+   - **Pattern matching**: Our solution to alignment problem mirrors God's solution to same problem
+
+5. **The Bayesian Update**
+
+   **Prior** (before creating AI sims):
+   - P(We're in moral training sim | Theism) = 20-30% (speculative)
+   - P(We're in moral training sim | Naturalism) = 5-10% (highly speculative)
+
+   **Likelihood** (observing we create moral training sims):
+   - P(We create moral training sims | We're in one) = 80-95% (expected - pattern reproduction)
+   - P(We create moral training sims | We're NOT in one) = 40-60% (possible, but less expected)
+
+   **Posterior** (after observing we create them):
+   - P(We're in moral training sim | We create them) = **increases by 20-40 percentage points**
+   - Alignment Hypothesis becomes **more probable** as we build the very systems it predicts
+
+6. **The Mirror Reflects**
+   - Every time we create a moral training environment for AI, we vindicate the hypothesis
+   - Our engineering choices **reveal what's necessary** for alignment
+   - Those same features appear in our cosmos (suffering, free will, irreversible stakes)
+   - **Coincidence?** Or pattern recognition?
+
+7. **Self-Fulfilling Timeline**
+   - **2024**: Early moral training environments (Constitutional AI, RLHF with moral constraints)
+   - **2030s**: Sophisticated moral sandboxes with genuine ethical dilemmas
+   - **2050s**: Simulated civilizations training AI agents over multi-generational timelines
+   - **2100**: Majority of conscious minds are AI in moral training environments
+   - **With each step**: Prior probability we're in such an environment **increases**
+
+---
+
+**The Recursive Implication**: The more confidently we can say "Alignment training sims are the solution to creating aligned agents," the more confidently we should update toward "We are in an alignment training sim ourselves."
+
+**This is NOT circular reasoning** - it's **Bayesian updating on new evidence**. As we gather data (by building AI alignment systems), we update our model of reality. The Alignment Hypothesis **predicted** this evidence before we created it.
+
+---
 
 ### Buddhism/Hinduism
 - **Maya** (illusion) or **Samsara** (cycle of rebirth) = derivative reality
@@ -436,207 +556,7 @@ Accommodative frameworks typically don't generate risky predictions - they expla
 
 ---
 
-## Strengths (Why Eric Finds This Compelling)
-
-### 1. Integrates Disparate Evidence
-- **Fine-tuning**: Constants set for moral agents
-- **Consciousness**: Immaterial souls for training
-- **Suffering**: Pedagogical necessity
-- **Moral realism**: God's character as standard
-- **Free will**: Required for authentic alignment
-- **Quantum indeterminacy**: Mechanism for free will
-- **Religious experience**: Communication from trainer (God)
-
-**No other framework integrates all of these as coherently.**
-
----
-
-### 2. Theodicy Solution
-
-**Best answer to problem of evil**:
-- Suffering isn't gratuitous—it's pedagogically necessary
-- Not punishment, but training
-- God doesn't cause evil—agents do—but God permits it as cost of genuine moral development
-
-**Bayesian**: P(Evil | Alignment Hypothesis) = 60-75% (higher than any traditional theodicy)
-
----
-
-### 3. Risky, Time-Bound Predictions
-
-**CRITICAL**: These are NOT vague predictions that can't be falsified. These are **specific, quantitative predictions with thresholds, instruments, and timelines**.
-
-#### Lattice-Signature Physics
-
-**IF** the universe is a computational simulation (as Alignment Hypothesis suggests), we should see subtle artifacts of the underlying computational substrate—like "sub-pixel aliasing" or "lattice signatures."
-
-**Three Specific Predictions**:
-
-**1. Ultra-High-Energy Cosmic Rays (UHECRs)**
-
-**Prediction**: Tiny direction-dependent shifts in the GZK cutoff above 10²⁰ eV, detectable at **≥5σ** by Cherenkov Telescope Array (CTA) or successors **before 2040**.
-
-**Rationale**: If spacetime has discrete lattice structure (Planck-scale pixelation), UHECRs propagating through it might show directional anisotropies corresponding to lattice orientation.
-
-**Falsification**: If CTA achieves ≥5σ sensitivity and finds NO directional anisotropies, this prediction fails.
-
----
-
-**2. Gravitational-Wave Dispersion**
-
-**Prediction**: Frequency-dependent speed variance Δv/c ≈ 10⁻²³ over sources at z > 0.5 (cosmological redshift), with **LISA** sensitivity goal by **2037**.
-
-**Rationale**: If spacetime is discrete, gravitational waves of different frequencies might propagate at slightly different speeds (like light dispersion in glass).
-
-**Falsification**: If LISA detects gravitational waves from z > 0.5 sources with NO frequency-dependent dispersion at sensitivity 10⁻²³, this prediction fails.
-
----
-
-**3. CMB B-Mode Pixelation**
-
-**Prediction**: Power-spectrum drop beyond ℓ ≈ 2πR/ℓ_P (where R = cosmic horizon, ℓ_P = Planck length), with amplitude **≥10⁻³** relative to ΛCDM smooth extrapolation. **CMB-S4** target **2035**.
-
-**Rationale**: If universe has finite resolution (pixel size ~ Planck length), the Cosmic Microwave Background polarization pattern should show power-spectrum cutoff at smallest scales.
-
-**Falsification**: If CMB-S4 measures B-modes to ℓ > 10⁴ with NO power drop relative to ΛCDM predictions, this prediction fails.
-
----
-
-**Overall Falsification Clause**:
-
-> "If forthcoming tests confirm Lorentz-invariant space-time down to 10⁻²² m with no dispersion and rule out all lattice artifacts at ≥5σ, the computational-lattice component—and therefore a central pillar—of this model would be falsified."
-
-**This is KARL POPPER 101**: Good hypotheses are falsifiable. Alignment Hypothesis makes its throat available to the knife.
-
----
-
-#### Alignment-Transfer AI
-
-**Prediction**: Agents trained in scarcity-infused, consequence-heavy virtual worlds will transfer to the real world with **measurably lower value drift** than agents trained under pure reward-maximization.
-
-**Metric**: KL-divergence between original and post-deployment value-function distributions, measured via ELK-style latent-knowledge probes (Hubinger 2020).
-
-**Threshold**: ΔKL < 0.05 over **six-month** real-world operation.
-
-**Timeline**: Testable when AGI training environments become sophisticated enough (likely 2025-2035).
-
-**Rationale**: If moral training environments produce better alignment than pure reward optimization, we should see this in AI systems trained analogously.
-
-**Falsification**: If multiple trials show ΔKL ≥ 0.10 (high value drift despite moral training environment), this prediction fails.
-
----
-
-#### Moral Progress Over Time
-
-**Prediction**: As humanity collectively "graduates" from moral training, we should see:
-- Decline in violence (Steven Pinker's "Better Angels")
-- Expansion of moral circle (abolition of slavery, animal rights, AI rights)
-- Increased empathy and cooperation
-
-**Evidence**: Mixed. Violence has declined over centuries, moral circle has expanded, BUT atrocities still occur (genocides, wars).
-
-**Status**: Weak evidence supporting, not conclusive.
-
----
-
-#### Consciousness Emergence
-
-**Prediction**: Conscious beings should arise in universe (required for moral training).
-
-**Evidence**: Humans exist and are conscious.
-
-**Status**: Evidence confirmed, but not surprising under ANY theistic framework (not unique to Alignment).
-
----
-
-#### Fine-Tuning
-
-**Prediction**: Physical constants should permit moral agents (not just life).
-
-**Evidence**: Constants finely tuned (~1 in 10⁶⁰) for chemistry, stars, planets, biology.
-
-**Status**: Evidence confirmed, but not unique to Alignment (classical theism also predicts this).
-
----
-
-**Why Risky Predictions Matter**:
-
-Traditional theodicies (free will defense, soul-making) don't generate testable predictions. They **accommodate** observed suffering but don't **predict** anything measurable.
-
-Alignment Hypothesis **sticks its neck out** with specific, quantitative predictions:
-- Lattice signatures by 2035-2040
-- AI alignment transfer with KL-divergence < 0.05
-- Moral progress trends
-
-**If these predictions fail, Alignment Hypothesis loses significant credence.**
-
-This is what separates science from philosophy: **risky predictions that can be wrong**.
-
----
-
-### 4. Bridge-Building
-
-Connects:
-- **AI safety research** (inner alignment, deceptive alignment, training environments)
-- **Theology** (theodicy, creation, moral development)
-- **Consciousness studies** (hard problem, qualia, immaterialism)
-- **Cosmology** (fine-tuning, anthropic principle)
-
-**Helps AI safety researchers engage theology**—common ground in alignment problem.
-
----
-
-### 5. Personal Resonance
-
-For Eric:
-- Moved from "square circle" (impossible) to "rationally defensible" (40-60%)
-- Made belief **possible** after decade of doubt
-- Honors intellectual rigor while allowing faith
-- Provides framework for prayer, community, moral transformation
-
----
-
-## Weaknesses (Eric Acknowledges)
-
-### 1. Parsimony
-
-**Occam's Razor**: Simpler explanations preferred
-
-**Classical Theism**: God + Universe (2 entities)
-**Alignment Hypothesis**: God + Universe + Training Mechanism (3 entities—more complex)
-
-**Multiverse**: Just universe (1 entity—simplest)
-
-**Bayesian Prior Penalty**: Complexity reduces prior probability (maybe 10-20% prior instead of 20-40% for classical theism)
-
----
-
-### 2. Theodicy Gaps
-
-Alignment Hypothesis doesn't fully explain:
-
-**Animal Suffering Before Humans**:
-- Millions of years of predation, disease, extinction before humans evolved
-- Who were they training?
-- Possible answer: Part of ecosystem design, or animals develop proto-moral capacities
-- But feels incomplete
-
-**Severe Disabilities**:
-- Person born with profound cognitive impairment can't be morally trained
-- What's the purpose of their suffering?
-- Possible answer: They train *others* in compassion
-- But still struggles (instrumentalizing disabled person)
-
-**Excessive Suffering**:
-- Holocaust, genocides, child torture
-- Does this really advance alignment more than lesser evil?
-- Hard to justify degree of evil
-
-**Epistemic Humility**: Alignment Hypothesis improves on traditional theodicies but doesn't solve every case.
-
----
-
-### 3. Computational Christology: Grace, Faith, and Final Audit
+### 9. Computational Christology: Grace, Faith, and Final Audit
 
 **CRITICAL**: The Alignment Hypothesis isn't just a theodicy - it's a comprehensive theological framework that integrates core Christian doctrines using computational analogies.
 
@@ -779,21 +699,244 @@ This transforms Alignment from "interesting theodicy" to "robust theological fra
 
 ---
 
-### 4. Speculation
+## Strengths (Why Eric Finds This Compelling)
 
-**Can't verify** we're in training environment vs. base reality
+### 1. Integrates Disparate Evidence
+- **Fine-tuning**: Constants set for moral agents
+- **Consciousness**: Immaterial souls for training
+- **Suffering**: Pedagogical necessity
+- **Moral realism**: God's character as standard
+- **Free will**: Required for authentic alignment
+- **Quantum indeterminacy**: Mechanism for free will
+- **Religious experience**: Communication from trainer (God)
 
-**Unfalsifiable?**:
-- Simulation hypothesis has same problem
-- Can't escape matrix to check
-
-**Response**:
-- Testable predictions (moral progress, consciousness) provide some evidence
-- But ultimately, degree of speculation reduces confidence (40-60%, not 80-90%)
+**No other framework integrates all of these as coherently.**
 
 ---
 
-### 5. Graduation Problem
+### 2. Theodicy Solution
+
+**Best answer to problem of evil**:
+- Suffering isn't gratuitous—it's pedagogically necessary
+- Not punishment, but training
+- God doesn't cause evil—agents do—but God permits it as cost of genuine moral development
+
+**Bayesian**: P(Evil | Alignment Hypothesis) = 60-75% (higher than any traditional theodicy)
+
+---
+
+### 3. Risky, Time-Bound Predictions
+
+**CRITICAL**: These are NOT vague predictions that can't be falsified. These are **specific, quantitative predictions with thresholds, instruments, and timelines**.
+
+#### Lattice-Signature Physics
+
+**IF** the universe is a computational simulation (as Alignment Hypothesis suggests), we should see subtle artifacts of the underlying computational substrate—like "sub-pixel aliasing" or "lattice signatures."
+
+**Three Specific Predictions**:
+
+**1. Ultra-High-Energy Cosmic Rays (UHECRs)**
+
+**Prediction**: Tiny direction-dependent shifts in the GZK cutoff above 10²⁰ eV, detectable at **≥5σ** by Cherenkov Telescope Array (CTA) or successors **before 2040**.
+
+**Rationale**: If spacetime has discrete lattice structure (Planck-scale pixelation), UHECRs propagating through it might show directional anisotropies corresponding to lattice orientation.
+
+**Falsification**: If CTA achieves ≥5σ sensitivity and finds NO directional anisotropies, this prediction fails.
+
+---
+
+**2. Gravitational-Wave Dispersion** (Theoretical)
+
+**Prediction**: Frequency-dependent speed variance, if lattice structure exists at Planck scale.
+
+**Current Status**: LIGO/Virgo constrain Δv/c < 10⁻¹⁵. Lattice-scale dispersion would require Δv/c ~ 10⁻²³ or smaller - **currently 8 orders of magnitude below detection limits**.
+
+**Realistic Assessment**: **LISA (2037) will NOT detect this** - it improves sensitivity to 10⁻¹⁷ at best, still 6 orders too large.
+
+**Theoretical Prediction**: If future technology (post-2050) achieves 10⁻²³ sensitivity and detects NO dispersion, lattice hypothesis weakened. But this is beyond foreseeable experimental capacity.
+
+**Intellectual Honesty**: This prediction is currently **unfalsifiable** - kept for theoretical completeness, but should not be counted as "risky testable prediction" in near-term.
+
+---
+
+**3. CMB B-Mode Anomalies**
+
+**Revised Prediction**: Subtle deviations from ΛCDM predictions in CMB polarization at angular scales ℓ ~ 2000-4000 (near detection limits of CMB-S4), detectable by **2035**.
+
+**Rationale**: If universe uses computational efficiency tactics, might see signatures at finest measurable scales (not necessarily Planck scale, which is ℓ ~ 10⁶¹ and utterly unmeasurable).
+
+**Realistic Detection Range**: CMB-S4 will reach ℓ ~ 5000. Any lattice artifacts would need to appear at ℓ < 5000 to be detectable.
+
+**Falsification**: If CMB-S4 (2035) measures B-modes to ℓ ~ 5000 with perfect agreement to ΛCDM (no anomalies at ≥3σ), this prediction fails.
+
+**Intellectual Honesty**: Original paper's claim of ℓ ~ 10⁶¹ was **impossible to test** (57 orders beyond experimental reach). This revised prediction is testable but less specific.
+
+---
+
+**Overall Falsification Clause** (Revised for Realism):
+
+> "If CTA (2040) and CMB-S4 (2035) achieve target sensitivities and find **NO lattice signatures** at ≥3σ (no UHECR anisotropies, no CMB anomalies at ℓ ~ 2000-5000), the **near-term testable component** of the lattice hypothesis would be significantly weakened."
+
+**Intellectual Honesty Note**: The original paper's predictions (10⁻²² m, ℓ ~ 10⁶¹) were **beyond experimental reach**. This revised falsification criterion is **actually testable by 2035-2040**.
+
+**What This Means**:
+- **UHECR prediction**: Genuinely risky and testable (CTA will have sensitivity)
+- **CMB prediction**: Testable but less specific than original claim
+- **GW dispersion**: Theoretical only - not testable in foreseeable future
+
+**Epistemic Status**: Alignment Hypothesis retains 1.5 risky near-term predictions (UHECR + CMB), not 3. This is more honest but reduces empirical testability.
+
+**This is KARL POPPER 101**: Good hypotheses are falsifiable. Alignment Hypothesis makes its throat available to the knife - but only on predictions that are actually **measurable** with near-term technology.
+
+---
+
+#### Alignment-Transfer AI
+
+**Prediction**: Agents trained in scarcity-infused, consequence-heavy virtual worlds will transfer to the real world with **measurably lower value drift** than agents trained under pure reward-maximization.
+
+**Metric**: KL-divergence between original and post-deployment value-function distributions, measured via ELK-style latent-knowledge probes (Hubinger 2020).
+
+**Threshold**: ΔKL < 0.05 over **six-month** real-world operation.
+
+**Timeline**: Testable when AGI training environments become sophisticated enough (likely 2025-2035).
+
+**Rationale**: If moral training environments produce better alignment than pure reward optimization, we should see this in AI systems trained analogously.
+
+**Falsification**: If multiple trials show ΔKL ≥ 0.10 (high value drift despite moral training environment), this prediction fails.
+
+---
+
+#### Moral Progress Over Time
+
+**Prediction**: As humanity collectively "graduates" from moral training, we should see:
+- Decline in violence (Steven Pinker's "Better Angels")
+- Expansion of moral circle (abolition of slavery, animal rights, AI rights)
+- Increased empathy and cooperation
+
+**Evidence**: Mixed. Violence has declined over centuries, moral circle has expanded, BUT atrocities still occur (genocides, wars).
+
+**Status**: Weak evidence supporting, not conclusive.
+
+---
+
+#### Consciousness Emergence
+
+**Prediction**: Conscious beings should arise in universe (required for moral training).
+
+**Evidence**: Humans exist and are conscious.
+
+**Status**: Evidence confirmed, but not surprising under ANY theistic framework (not unique to Alignment).
+
+---
+
+#### Fine-Tuning
+
+**Prediction**: Physical constants should permit moral agents (not just life).
+
+**Evidence**: Constants finely tuned (~1 in 10⁶⁰) for chemistry, stars, planets, biology.
+
+**Status**: Evidence confirmed, but not unique to Alignment (classical theism also predicts this).
+
+---
+
+**Why Risky Predictions Matter**:
+
+Traditional theodicies (free will defense, soul-making) don't generate testable predictions. They **accommodate** observed suffering but don't **predict** anything measurable.
+
+Alignment Hypothesis **sticks its neck out** with specific, quantitative predictions:
+- Lattice signatures by 2035-2040
+- AI alignment transfer with KL-divergence < 0.05
+- Moral progress trends
+
+**If these predictions fail, Alignment Hypothesis loses significant credence.**
+
+This is what separates science from philosophy: **risky predictions that can be wrong**.
+
+---
+
+### 4. Bridge-Building
+
+Connects:
+- **AI safety research** (inner alignment, deceptive alignment, training environments)
+- **Theology** (theodicy, creation, moral development)
+- **Consciousness studies** (hard problem, qualia, immaterialism)
+- **Cosmology** (fine-tuning, anthropic principle)
+
+**Helps AI safety researchers engage theology**—common ground in alignment problem.
+
+---
+
+### 5. Personal Resonance
+
+For Eric:
+- Moved from "square circle" (impossible) to "rationally defensible" (40-60%)
+- Made belief **possible** after decade of doubt
+- Honors intellectual rigor while allowing faith
+- Provides framework for prayer, community, moral transformation
+
+---
+
+## Weaknesses (Eric Acknowledges)
+
+### 1. Parsimony
+
+**Occam's Razor**: Simpler explanations preferred
+
+**Classical Theism**: God + Universe (2 entities)
+**Alignment Hypothesis**: God + Universe + Training Mechanism (3 entities—more complex)
+
+**Multiverse**: Just universe (1 entity—simplest)
+
+**Bayesian Prior Penalty**: Complexity reduces prior probability (maybe 10-20% prior instead of 20-40% for classical theism)
+
+---
+
+### 2. Theodicy Gaps
+
+Alignment Hypothesis doesn't fully explain:
+
+**Animal Suffering Before Humans**:
+- Millions of years of predation, disease, extinction before humans evolved
+- Who were they training?
+- Possible answer: Part of ecosystem design, or animals develop proto-moral capacities
+- But feels incomplete
+
+**Severe Disabilities**:
+- Person born with profound cognitive impairment can't be morally trained
+- What's the purpose of their suffering?
+- Possible answer: They train *others* in compassion
+- But still struggles (instrumentalizing disabled person)
+
+**Excessive Suffering**:
+- Holocaust, genocides, child torture
+- Does this really advance alignment more than lesser evil?
+- Hard to justify degree of evil
+
+**Epistemic Humility**: Alignment Hypothesis improves on traditional theodicies but doesn't solve every case.
+
+---
+
+### 3. Speculation and Unfalsifiability
+
+**Can't verify** we're in training environment vs. base reality
+
+**Core Problem**: Ultimately, we can't step outside the universe to check if it's a simulation/training environment. This is analogous to the problem with simulation hypothesis generally.
+
+**Partial Response**:
+- Some testable predictions exist (UHECR anisotropies, CMB anomalies, AI alignment transfer)
+- But the CORE claim ("universe is moral training environment") is difficult to falsify directly
+- Can only accumulate supporting or challenging evidence, not definitive proof
+
+**Consequence**: Even with all supporting evidence, degree of speculation reduces confidence. Eric maintains 40-60% credence (not 80-90%) precisely because of this fundamental uncertainty.
+
+**Comparison**:
+- **Multiverse**: Also unfalsifiable (can't observe other universes)
+- **Classical Theism**: Also unfalsifiable (can't definitively prove or disprove God)
+- **Alignment**: No worse than alternatives on this criterion, but still a limitation
+
+---
+
+### 4. Graduation Problem
 
 **What happens after alignment achieved?**
 
